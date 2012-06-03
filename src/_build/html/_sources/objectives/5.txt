@@ -1,15 +1,15 @@
-rational functions, their graphs, and applications
+Rational Functions, Their Graphs, And Applications
 ==================================================
 
 
-graphs of rational functions including all intercepts and asymptotes
+Graphs of rational functions including all intercepts and asymptotes
 --------------------------------------------------------------------
 
-algebraic manipulation of rational functions
+Algebraic manipulation of rational functions
 --------------------------------------------
 
-utilizing rational functions through applications
+Utilizing rational functions through applications
 -------------------------------------------------
 
-solving rational functions inequalities
+Solving rational functions inequalities
 ---------------------------------------

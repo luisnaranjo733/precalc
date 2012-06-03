@@ -1,12 +1,12 @@
-power functions, their graphs and applications
+Power Functions, Their Graphs And Applications
 ==============================================
 
 
-graphs of different power functions
+Graphs of different power functions
 -----------------------------------
 
-writing a power function from a list of data
+Writing a power function from a list of data
 --------------------------------------------
 
-applications of power functions through direct or indirect variation
+Applications of power functions through direct or indirect variation
 --------------------------------------------------------------------

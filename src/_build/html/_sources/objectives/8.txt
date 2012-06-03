@@ -1,12 +1,12 @@
-vectors and their applications
+Vectors And Their Applications
 ==============================
 
 
-different forms of vectors
+Different forms of vectors
 --------------------------
 
-vector application
+Vector application
 ------------------
 
-finding the angle between two vectors
+Finding the angle between two vectors
 -------------------------------------

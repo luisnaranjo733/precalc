@@ -1,15 +1,15 @@
-function composition and inverse functions
+Function Composition And Inverse Functions
 ==========================================
 
 
-function composition and inherited domain and range
+Function composition and inherited domain and range
 ---------------------------------------------------
 
-function decomposition
+Function decomposition
 ----------------------
 
-parametric functions and how they relate to function composition
+Parametric functions and how they relate to function composition
 ----------------------------------------------------------------
 
-inverse functions and inherited domain and range
+Inverse functions and inherited domain and range
 ------------------------------------------------

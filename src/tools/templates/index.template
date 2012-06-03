@@ -3,6 +3,8 @@ Mr. Frost Pre-calc H Final
 
 **Luis Naranjo's project**
 
+Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`.
+
 .. toctree::
    :maxdepth: 2
 

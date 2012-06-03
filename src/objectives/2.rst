@@ -1,15 +1,15 @@
-transformations of all functions
+Transformations Of All Functions
 ================================
 
 
-graphical transformations by comparing two functions and listing the graphical transformations
+Graphical transformations by comparing two functions and listing the graphical transformations
 ----------------------------------------------------------------------------------------------
 
-graphical transformations by rewriting a function from a list of transformations
+Graphical transformations by rewriting a function from a list of transformations
 --------------------------------------------------------------------------------
 
-graphical transformations by transforming a graph given transformations
+Graphical transformations by transforming a graph given transformations
 -----------------------------------------------------------------------
 
-all graphical transformations by using each type of transformation
+All graphical transformations by using each type of transformation
 ------------------------------------------------------------------

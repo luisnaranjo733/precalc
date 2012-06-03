@@ -1,15 +1,15 @@
-logarithmic functions their graphs and applications
+Logarithmic Functions Their Graphs And Applications
 ===================================================
 
 
-rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
+Rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
 ------------------------------------------------------------------------------------------------------------------------------------
 
-properties of logarithms
+Properties of logarithms
 ------------------------
 
-graphs of logarithms
+Graphs of logarithms
 --------------------
 
-applications of logarithms
+Applications of logarithms
 --------------------------

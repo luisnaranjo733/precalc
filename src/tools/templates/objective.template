@@ -1,7 +1,7 @@
-{{objective}}
+{{objective|title}}
 {{objective|length * '='}}
 
 {% for proficiency in proficiencies %}
-{{proficiency}}
+{{proficiency|capitalize}}
 {{proficiency|length * '-'}}
 {% endfor %}

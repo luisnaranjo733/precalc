@@ -1,18 +1,18 @@
-sequences and series
+Sequences And Series
 ====================
 
 
-geometric and arithmetic sequences
+Geometric and arithmetic sequences
 ----------------------------------
 
-defining sequences explicitly and recursively
+Defining sequences explicitly and recursively
 ---------------------------------------------
 
-summations notation
+Summations notation
 -------------------
 
-summing finite arithmetic and geometric sequences
+Summing finite arithmetic and geometric sequences
 -------------------------------------------------
 
-summing infinite geometric  sequences
+Summing infinite geometric  sequences
 -------------------------------------

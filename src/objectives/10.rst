@@ -1,18 +1,18 @@
-conic sections their graphs and applications
+Conic Sections Their Graphs And Applications
 ============================================
 
 
-how to make conic models that fit given conditions
+How to make conic models that fit given conditions
 --------------------------------------------------
 
-how to graph conic sections from equations
+How to graph conic sections from equations
 ------------------------------------------
 
-the applications of conic sections
+The applications of conic sections
 ----------------------------------
 
-how to algebraically manipulate conic equations into standard form
+How to algebraically manipulate conic equations into standard form
 ------------------------------------------------------------------
 
-parabolas, ellipses and hyperbolas
+Parabolas, ellipses and hyperbolas
 ----------------------------------

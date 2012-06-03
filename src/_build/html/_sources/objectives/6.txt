@@ -1,18 +1,18 @@
-exponential and logistic functions, their graphs and applications
+Exponential And Logistic Functions, Their Graphs And Applications
 =================================================================
 
 
-writing exponential models
+Writing exponential models
 --------------------------
 
-writing logistic models
+Writing logistic models
 -----------------------
 
-graphing exponential functions
+Graphing exponential functions
 ------------------------------
 
-applying exponential models
+Applying exponential models
 ---------------------------
 
-applying logistic models
+Applying logistic models
 ------------------------

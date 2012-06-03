@@ -1,9 +1,9 @@
-limits
+Limits
 ======
 
 
-how to write asymptotes in limit notation
+How to write asymptotes in limit notation
 -----------------------------------------
 
-removable discontinuity
+Removable discontinuity
 -----------------------

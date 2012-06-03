@@ -1,15 +1,15 @@
-polar coordinates and equations
+Polar Coordinates And Equations
 ===============================
 
 
-how to graph polar coordinates
+How to graph polar coordinates
 ------------------------------
 
-converting polar coordinates to rectangular coordinates and rectangular to polar
+Converting polar coordinates to rectangular coordinates and rectangular to polar
 --------------------------------------------------------------------------------
 
-converting polar equations to rectangular equations and rectangular to polar
+Converting polar equations to rectangular equations and rectangular to polar
 ----------------------------------------------------------------------------
 
-graphs of polar equations
+Graphs of polar equations
 -------------------------
