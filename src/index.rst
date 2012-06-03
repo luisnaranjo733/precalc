@@ -1,5 +1,5 @@
-Mr. Frost Pre-calc H Final
-==========================
+Pre-calc H Final
+================
 
 **Luis Naranjo's project**
 
