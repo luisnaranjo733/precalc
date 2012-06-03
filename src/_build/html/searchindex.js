@@ -1,0 +1,1 @@
+Search.setIndex({objects:{},terms:{elect:0,modul:0,indic:0,tabl:0,index:0,welcom:0,content:0,mathemat:0,formula:0,document:0,"final":0,euler:0,most:0,know:0,beauti:0,sinc:0,search:0,ident:0,project:0,equat:0,pythagora:0,precalc:0,page:0},objtypes:{},titles:["Welcome to precalc final project&#8217;s documentation!"],objnames:{},filenames:["index"]})

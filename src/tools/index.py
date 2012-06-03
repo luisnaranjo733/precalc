@@ -1,4 +1,22 @@
-objectives = {
+import os
+from pprint import pprint
+from jinja2 import Template
+
+global objectives_dir
+
+objectives_dir = 'objectives'
+
+try:
+    assert os.path.isdir(objectives_dir)
+except AssertionError:
+    print("'%s' does not exist!" % objectives_dir)
+
+template_file = open('tools/template.rst')
+template_contents = template_file.read()
+template_file.close()
+
+
+objective_info = {
 'function composition and inverse functions': [
     'function composition and inherited domain and range',
     'function decomposition',
@@ -61,8 +79,27 @@ objectives = {
     'removable discontinuity']
 }
 
-for title in objectives:
-    title = title.capitalize()
 
-for title in objectives:
-    print title
+def try_render(title):
+
+    fname = title + '.rst'
+    fpath = os.path.abspath(os.path.join(objectives_dir, fname))
+
+    if not os.path.isfile(fpath):
+        print("Creating %s..." % fpath)
+
+        template = Template(template_contents)
+        rendered = template.render(
+            title=title,
+            proficiencies=objective_info[title]
+        )
+        
+        with open(fpath, 'w') as fh:
+            fh.write(rendered)
+
+for title in objective_info:
+    try_render(title)
+
+files = os.listdir(objectives_dir)
+pprint(files)
+
