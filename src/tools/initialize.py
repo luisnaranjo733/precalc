@@ -1,113 +1,116 @@
 import os
+import sys
 from pprint import pprint
 from jinja2 import Template
 
 global objectives_dir
 
-objectives_dir = 'objectives'
+UPDATE_INDEX = True
+
+objectives_dir = os.path.abspath('objectives')
 
 try:
     assert os.path.isdir(objectives_dir)
 except AssertionError:
-    print("'%s' does not exist!" % objectives_dir)
+    os.mkdir(objectives_dir)
 
-template_file = open('tools/templates/objective.template')
-template_contents = template_file.read()
-template_file.close()
+with open('tools/templates/objective.template') as fh:
+    objective_contents = fh.read()
 
-index_template = open('tools/templates/index.template')
-index = index_template.read()
-index_template.close()
+with open('tools/templates/index.template') as fh:
+    index_contents = fh.read()
 
-objective_info = {
-'function composition and inverse functions': [
+
+objective_info = [
+['function composition and inverse functions', [
     'function composition and inherited domain and range',
     'function decomposition',
     'parametric functions and how they relate to function composition',
-    'inverse functions and inherited domain and range'],
-'transformations of all functions': [
+    'inverse functions and inherited domain and range']],
+
+['transformations of all functions', [
     'graphical transformations by comparing two functions and listing the graphical transformations',
     'graphical transformations by rewriting a function from a list of transformations',
     'graphical transformations by transforming a graph given transformations',
-    'all graphical transformations by using each type of transformation'],
-'power functions, their graphs and applications': [
+    'all graphical transformations by using each type of transformation']],
+
+['power functions, their graphs and applications', [
     'graphs of different power functions',
     'writing a power function from a list of data',
-    'applications of power functions through direct or indirect variation'],
-'polynomial functions, their graphs and applications': [
+    'applications of power functions through direct or indirect variation']],
+
+['polynomial functions, their graphs and applications', [
     'graphs of polynomial functions by graphing a polynomial that shows comprehension of how multiplicity and end behavior affect the graph',
     'factoring a higher degree polynomial with and without complex zeros',
     'factoring a higher degree polynomial that has a leading coefficiant that is not one',
     'solving polynomial equations and inequalities',
-    'applications of polynomial functions'],
-'rational functions, their graphs, and applications': [
+    'applications of polynomial functions']],
+
+['rational functions, their graphs, and applications', [
     'graphs of rational functions including all intercepts and asymptotes',
     'algebraic manipulation of rational functions',
     'utilizing rational functions through applications',
-    'solving rational functions inequalities'],
-'exponential and logistic functions, their graphs and applications': [
+    'solving rational functions inequalities']],
+
+['exponential and logistic functions, their graphs and applications', [
     'writing exponential models', 
     'writing logistic models',
     'graphing exponential functions',
     'applying exponential models',
-    'applying logistic models'],
-'logarithmic functions their graphs and applications': [
+    'applying logistic models']],
+
+['logarithmic functions their graphs and applications', [
     'rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases',
     'properties of logarithms',
     'graphs of logarithms',
-    'applications of logarithms'],
-'vectors and their applications': [
+    'applications of logarithms']],
+
+['vectors and their applications', [
     'different forms of vectors',
     'vector application',
-    'finding the angle between two vectors'],
-'polar coordinates and equations': [
+    'finding the angle between two vectors']],
+
+['polar coordinates and equations', [
     'how to graph polar coordinates',
     'converting polar coordinates to rectangular coordinates and rectangular to polar',
     'converting polar equations to rectangular equations and rectangular to polar',
-    'graphs of polar equations'],
-'conic sections their graphs and applications': [
+    'graphs of polar equations']],
+
+['conic sections their graphs and applications', [
     'how to make conic models that fit given conditions',
     'how to graph conic sections from equations',
     'the applications of conic sections',
     'how to algebraically manipulate conic equations into standard form',
-    'parabolas, ellipses and hyperbolas'],
-'sequences and series': [
+    'parabolas, ellipses and hyperbolas']],
+
+['sequences and series', [
     'geometric and arithmetic sequences',
     'defining sequences explicitly and recursively',
     'summations notation',
     'summing finite arithmetic and geometric sequences',
-    'summing infinite geometric  sequences'],
-'limits': [
+    'summing infinite geometric  sequences']],
+
+['limits', [
     'how to write asymptotes in limit notation', 
-    'removable discontinuity']
-}
+    'removable discontinuity']],
+]
 
+objective_numbers = []
 
-def try_create_objective(title):
+for info in objective_info:
+    objective, proficiencies = info
+    objective_number = (objective_info.index(info) + 1)
+    objective_numbers.append(objective_number)
+    fname = os.path.join(objectives_dir, '%d.rst' % objective_number)
 
-    fname = title + '.rst'
-    fpath = os.path.abspath(os.path.join(objectives_dir, fname))
-
-    if not os.path.isfile(fpath):
-        print("Creating %s..." % fpath)
-
-        template = Template(template_contents)
-        rendered = template.render(
-            title=title,
-            proficiencies=objective_info[title]
-        )
-        
-        with open(fpath, 'w') as fh:
+    if not os.path.isfile(fname):
+        template = Template(objective_contents)
+        rendered = template.render(objective=objective, proficiencies=proficiencies)
+        with open(fname, 'a') as fh:
             fh.write(rendered)
 
-def update_index(files):
-    template = Template(index)
-    rendered = template.render(objectives=files)
+if UPDATE_INDEX:
+    template = Template(index_contents)
+    rendered = template.render(objectives=objective_numbers)
     with open('index.rst', 'w') as fh:
         fh.write(rendered)
-    
-for title in objective_info:
-    try_create_objective(title)
-
-files = [fname[:-3] for fname in os.listdir(objectives_dir)]  # Cut out the '.rst' extension
-update_index(files)

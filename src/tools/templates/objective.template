@@ -1,5 +1,5 @@
-{{title}}
-{{title|length * '='}}
+{{objective}}
+{{objective|length * '='}}
 
 {% for proficiency in proficiencies %}
 {{proficiency}}

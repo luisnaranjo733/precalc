@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
 
 {% for objective in objectives %}
-   objectives/{{objective}}
+   objectives/{{objective}}.rst
 {% endfor %}
 
 Indices and tables
