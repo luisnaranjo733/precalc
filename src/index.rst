@@ -1,12 +1,7 @@
-.. precalc final project documentation master file, created by
-   sphinx-quickstart on Fri Jun  1 20:52:52 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Mr. Frost Pre-calc H Final
+==========================
 
-Mr. Frost Pre-calc H Final Project
-==================================
-
-Contents:
+**Luis Naranjo's project**
 
 .. toctree::
    :maxdepth: 2
