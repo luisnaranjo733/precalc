@@ -11,9 +11,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   objectives/vectors and their applications
-
-
+{% for objective in objectives %}
+   objectives/{{objective}}
+{% endfor %}
 
 Indices and tables
 ==================
@@ -21,3 +21,4 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
