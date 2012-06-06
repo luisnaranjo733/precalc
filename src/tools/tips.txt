@@ -1,0 +1,10 @@
+initialize.py does a few things.
+
+It creates *.rst files (one for each objective).
+
+It fills in the information about each objective, and pre-links the file to a a
+reflection sheet, which is in .png format.
+
+Once this reflection sheet is created, it will show up on the page.
+
+make sure to commit your changes
