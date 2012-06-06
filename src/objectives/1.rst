@@ -57,3 +57,4 @@ Parametric functions and how they relate to function composition
 
 Inverse functions and inherited domain and range
 ------------------------------------------------
+asdf
