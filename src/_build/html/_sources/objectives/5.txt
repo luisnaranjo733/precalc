@@ -1,6 +1,9 @@
 Rational Functions, Their Graphs, And Applications
 ==================================================
 
+.. image:: reflections/5.png
+   :alt: Reflection 5
+
 
 Graphs of rational functions including all intercepts and asymptotes
 --------------------------------------------------------------------

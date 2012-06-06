@@ -1,6 +1,9 @@
 Exponential And Logistic Functions, Their Graphs And Applications
 =================================================================
 
+.. image:: reflections/6.png
+   :alt: Reflection 6
+
 
 Writing exponential models
 --------------------------

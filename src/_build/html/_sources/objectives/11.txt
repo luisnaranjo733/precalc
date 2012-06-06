@@ -1,6 +1,9 @@
 Sequences And Series
 ====================
 
+.. image:: reflections/11.png
+   :alt: Reflection 11
+
 
 Geometric and arithmetic sequences
 ----------------------------------

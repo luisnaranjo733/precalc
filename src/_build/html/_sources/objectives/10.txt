@@ -1,6 +1,9 @@
 Conic Sections Their Graphs And Applications
 ============================================
 
+.. image:: reflections/10.png
+   :alt: Reflection 10
+
 
 How to make conic models that fit given conditions
 --------------------------------------------------

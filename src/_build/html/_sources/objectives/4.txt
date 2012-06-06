@@ -1,6 +1,9 @@
 Polynomial Functions, Their Graphs And Applications
 ===================================================
 
+.. image:: reflections/4.png
+   :alt: Reflection 4
+
 
 Graphs of polynomial functions by graphing a polynomial that shows comprehension of how multiplicity and end behavior affect the graph
 --------------------------------------------------------------------------------------------------------------------------------------

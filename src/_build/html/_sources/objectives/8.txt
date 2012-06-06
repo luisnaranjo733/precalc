@@ -1,6 +1,9 @@
 Vectors And Their Applications
 ==============================
 
+.. image:: reflections/8.png
+   :alt: Reflection 8
+
 
 Different forms of vectors
 --------------------------

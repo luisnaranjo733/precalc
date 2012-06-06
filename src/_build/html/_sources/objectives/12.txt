@@ -1,6 +1,9 @@
 Limits
 ======
 
+.. image:: reflections/12.png
+   :alt: Reflection 12
+
 
 How to write asymptotes in limit notation
 -----------------------------------------
