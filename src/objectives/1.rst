@@ -16,8 +16,6 @@ Function composition and inherited domain and range
    \text{Domain: } (-\infty, +\infty)
    
    \text{Range: } (-\infty, +\infty)
-
-   \lim_{x \to -\infty} = -\infty
    
    g(x) = -x^2 + 5`
    
@@ -44,9 +42,15 @@ Function composition and inherited domain and range
 Function decomposition
 ----------------------
 
-If :math:`f(g(x)) = \sqrt{x^2 + 3}`, then find :math:`g(x)` and :math:`f(x)`.
+.. math::
 
-:math:`f(x) = \sqrt{x}` and :math:`g(x) = x^2 + 3`
+   f(g(x)) = \sqrt{x^2 + 3}
+   
+   \text{find } g(x)` \text{and} f(x)
+
+   f(x) = \sqrt{x}
+
+   (x) = x^2 + 3`
 
 Parametric functions and how they relate to function composition
 ----------------------------------------------------------------
