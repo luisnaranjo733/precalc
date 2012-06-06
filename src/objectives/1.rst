@@ -13,19 +13,19 @@ Function composition and inherited domain and range
 
    f(x) = 2x + 3
    
-   \text{Domain is } (-\infty, +\infty)
+   \text{Domain: } (-\infty, +\infty)
    
+   \text{Range: } (-\infty, +\infty)
+
    \lim_{x \to -\infty} = -\infty
    
    g(x) = -x^2 + 5`
    
-   \text{Domain is ...}
+   \text{Domain: } (-\infty, +\infty)
 
-   \lim_{x \to +\infty} = \infty
+   \text{Range: } (-\infty, 13]
    
-   \lim_{x \to -\infty} = \infty
-   
-   \text{**find**} (f \circ g)(x):
+   \text{find} (f \circ g)(x):
 
    (f \circ g)(x) = f(g(x))
 
@@ -34,6 +34,12 @@ Function composition and inherited domain and range
    f(-x^2 + 5) = -2x^2 + 10 + 3
 
    f(-x^2 + 5) = -2x^2 + 13
+
+   (f \circ g) = -2x^2 + 13
+
+   \text{Domain: }(-\infty, \infty)
+
+   \text{Range: }(-\infty, 13]
 
 Function decomposition
 ----------------------
