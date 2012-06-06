@@ -57,4 +57,28 @@ Parametric functions and how they relate to function composition
 
 Inverse functions and inherited domain and range
 ------------------------------------------------
-asdf
+
+Section 1.5: Example 4
+
+**GRAPH GOES HERE**
+
+Find an equation for :math:`f^-1(x)` if :math:`f(x) = x/(x+1)`.
+
+.. math::
+
+   x = y/y+1
+
+   x(y + 1) = y
+
+   xy + x = y
+
+   xy - y = -x
+
+   y(x - 1) = -x
+
+   y = -x/x-1
+
+   y = x/1-x
+
+   f^-1(x) = x/(1-x)
+
