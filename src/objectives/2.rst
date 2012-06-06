@@ -1,6 +1,9 @@
 Transformations Of All Functions
 ================================
 
+.. image:: reflections/2.png
+   :alt: Reflection 2
+
 
 Graphical transformations by comparing two functions and listing the graphical transformations
 ----------------------------------------------------------------------------------------------

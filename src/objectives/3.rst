@@ -1,6 +1,9 @@
 Power Functions, Their Graphs And Applications
 ==============================================
 
+.. image:: reflections/3.png
+   :alt: Reflection 3
+
 
 Graphs of different power functions
 -----------------------------------

@@ -1,6 +1,9 @@
 Logarithmic Functions Their Graphs And Applications
 ===================================================
 
+.. image:: reflections/7.png
+   :alt: Reflection 7
+
 
 Rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
 ------------------------------------------------------------------------------------------------------------------------------------

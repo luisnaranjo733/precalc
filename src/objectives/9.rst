@@ -1,6 +1,9 @@
 Polar Coordinates And Equations
 ===============================
 
+.. image:: reflections/9.png
+   :alt: Reflection 9
+
 
 How to graph polar coordinates
 ------------------------------
