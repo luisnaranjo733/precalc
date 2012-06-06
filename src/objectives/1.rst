@@ -9,21 +9,23 @@ Function Composition And Inverse Functions
 Function composition and inherited domain and range
 ---------------------------------------------------
 
-:math:`f(x) = 2x + 3`
-
-Domain is :math:`(-\infty, +\infty)`
-
-:math:`\lim_{x \to -\infty} = -\infty`
-
-:math:`g(x) = -x^2 + 5`
-
-:math:`\lim_{x \to +\infty} = \infty`
-
-:math:`\lim_{x \to -\infty} = \infty`
-
-**find** :math:`(f \circ g)(x)`:
-
 .. math::
+
+   f(x) = 2x + 3
+   
+   Domain is :math:`(-\infty, +\infty)`
+   
+   \lim_{x \to -\infty} = -\infty
+   
+   g(x) = -x^2 + 5`
+   
+   Domain is
+   
+   \lim_{x \to +\infty} = \infty
+   
+   \lim_{x \to -\infty} = \infty
+   
+   **find** (f \circ g)(x):
 
    (f \circ g)(x) = f(g(x))
 
