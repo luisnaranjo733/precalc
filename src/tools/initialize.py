@@ -8,9 +8,9 @@ global objectives_dir
 
 UPDATE_INDEX = True
 
-objectives_dir = os.path.abspath('objectives')
+objectives_dir = os.path.abspath('objectives')  # Make relative path (using os.path)
 reflections_dir = os.path.join(objectives_dir, 'reflections')
-reflection_template = '/home/luis/Dropbox/projects/precalc/reflection_template.odp'
+reflection_template = '/home/luis/Dropbox/projects/precalc/reflection_template.odp'  # TODO: Use os.path to build rpath
 
 try:
     assert os.path.isdir(objectives_dir)
