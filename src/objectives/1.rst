@@ -13,19 +13,19 @@ Function composition and inherited domain and range
 
    f(x) = 2x + 3
    
-   Domain is :math:`(-\infty, +\infty)`
+   \text{Domain is } (-\infty, +\infty)
    
    \lim_{x \to -\infty} = -\infty
    
    g(x) = -x^2 + 5`
    
-   Domain is
-   
+   \text{Domain is ...}
+
    \lim_{x \to +\infty} = \infty
    
    \lim_{x \to -\infty} = \infty
    
-   **find** (f \circ g)(x):
+   \text{**find**} (f \circ g)(x):
 
    (f \circ g)(x) = f(g(x))
 
