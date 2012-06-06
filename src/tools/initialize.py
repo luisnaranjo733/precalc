@@ -1,5 +1,6 @@
 import os
 import sys
+from shutil import copytree  # (src, dst)
 from pprint import pprint
 from jinja2 import Template
 
@@ -8,11 +9,18 @@ global objectives_dir
 UPDATE_INDEX = True
 
 objectives_dir = os.path.abspath('objectives')
+reflections_dir = os.path.join(objectives_dir, 'reflections')
 
 try:
     assert os.path.isdir(objectives_dir)
 except AssertionError:
     os.mkdir(objectives_dir)
+
+try:
+    assert os.path.isdir(reflections_dir)
+except AssertionError:
+    os.mkdir(reflections_dir)
+
 
 with open('tools/templates/objective.template') as fh:
     objective_contents = fh.read()
