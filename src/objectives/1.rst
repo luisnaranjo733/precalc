@@ -4,14 +4,14 @@ Function Composition And Inverse Functions
 .. image:: reflections/1.png
    :alt: Reflection #1
 
-test
+
 
 Function composition and inherited domain and range
 ---------------------------------------------------
 
 :math:`f(x) = 2x + 3`
 
-:math:`\lim_{x \to +\infty} = \infty`
+Domain is :math:`(-\infty, +\infty)`
 
 :math:`\lim_{x \to -\infty} = -\infty`
 
