@@ -114,7 +114,7 @@ for info in objective_info:
 
     if not os.path.isfile(fname):
         template = Template(objective_contents)
-        rendered = template.render(objective=objective, proficiencies=proficiencies)
+        rendered = template.render(objective=objective, objective_number=objective_number, proficiencies=proficiencies)
         with open(fname, 'a') as fh:
             fh.write(rendered)
 

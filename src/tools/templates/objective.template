@@ -1,6 +1,9 @@
 {{objective|title}}
 {{objective|length * '='}}
 
+.. image:: reflections/{{objective_number}}.png
+   :alt: Reflection {{objective_number}}
+
 {% for proficiency in proficiencies %}
 {{proficiency|capitalize}}
 {{proficiency|length * '-'}}
