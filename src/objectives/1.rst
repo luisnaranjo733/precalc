@@ -46,7 +46,7 @@ Function decomposition
 
    f(g(x)) = \sqrt{x^2 + 3}
    
-   \text{find } g(x)` \text{and} f(x)
+   \text{find } g(x) \text{and} f(x)
 
    f(x) = \sqrt{x}
 
