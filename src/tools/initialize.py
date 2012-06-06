@@ -1,6 +1,6 @@
 import os
 import sys
-from shutil import copytree  # (src, dst)
+from shutil import copy # (src, dst)
 from pprint import pprint
 from jinja2 import Template
 
@@ -10,6 +10,7 @@ UPDATE_INDEX = True
 
 objectives_dir = os.path.abspath('objectives')
 reflections_dir = os.path.join(objectives_dir, 'reflections')
+reflection_template = '/home/luis/Dropbox/projects/precalc/reflection_template.odp'
 
 try:
     assert os.path.isdir(objectives_dir)
@@ -106,8 +107,8 @@ objective_info = [
 objective_numbers = []
 
 for info in objective_info:
-    objective, proficiencies = info
-    objective_number = (objective_info.index(info) + 1)
+    objective, proficiencies = info  # objective is string, proficiencies is list of strings
+    objective_number = (objective_info.index(info) + 1)  # Correct objective number
     objective_numbers.append(objective_number)
     fname = os.path.join(objectives_dir, '%d.rst' % objective_number)
 
@@ -117,6 +118,12 @@ for info in objective_info:
         with open(fname, 'a') as fh:
             fh.write(rendered)
 
+    rname = '%d.odp' % objective_number  # stands for reflection name
+    reflection = os.path.join(reflections_dir, rname)
+
+    if not os.path.isfile(reflection):
+        copy(reflection_template, reflection)
+    
 if UPDATE_INDEX:
     template = Template(index_contents)
     rendered = template.render(objectives=objective_numbers)
