@@ -2,8 +2,9 @@ Function Composition And Inverse Functions
 ==========================================
 
 .. image:: reflections/1.png
-   :alt: Reflection 1
+   :alt: Reflection #1
 
+test
 
 Function composition and inherited domain and range
 ---------------------------------------------------
