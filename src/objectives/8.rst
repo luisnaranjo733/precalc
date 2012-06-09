@@ -2,7 +2,7 @@ Vectors And Their Applications
 ==============================
 
 .. image:: reflections/8.png
-   :alt: Reflection 8
+   :alt: Reflection 8 would go here
 
 
 Different forms of vectors
@@ -12,7 +12,7 @@ Different forms of vectors
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates different forms of vectors
+This artifact demonstrates different forms of vectors.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ Vector application
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates vector application
+This artifact demonstrates vector application.
 
 **Artifact**:
 
@@ -36,7 +36,7 @@ Finding the angle between two vectors
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates finding the angle between two vectors
+This artifact demonstrates finding the angle between two vectors.
 
 **Artifact**:
 

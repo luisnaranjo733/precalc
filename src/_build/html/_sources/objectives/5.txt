@@ -2,7 +2,7 @@ Rational Functions, Their Graphs, And Applications
 ==================================================
 
 .. image:: reflections/5.png
-   :alt: Reflection 5
+   :alt: Reflection 5 would go here
 
 
 Graphs of rational functions including all intercepts and asymptotes
@@ -12,7 +12,7 @@ Graphs of rational functions including all intercepts and asymptotes
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates graphs of rational functions including all intercepts and asymptotes
+This artifact demonstrates graphs of rational functions including all intercepts and asymptotes.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ Algebraic manipulation of rational functions
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates algebraic manipulation of rational functions
+This artifact demonstrates algebraic manipulation of rational functions.
 
 **Artifact**:
 
@@ -36,7 +36,7 @@ Utilizing rational functions through applications
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates utilizing rational functions through applications
+This artifact demonstrates utilizing rational functions through applications.
 
 **Artifact**:
 
@@ -48,7 +48,7 @@ Solving rational functions inequalities
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates solving rational functions inequalities
+This artifact demonstrates solving rational functions inequalities.
 
 **Artifact**:
 

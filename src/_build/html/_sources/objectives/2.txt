@@ -2,7 +2,7 @@ Transformations Of All Functions
 ================================
 
 .. image:: reflections/2.png
-   :alt: Reflection 2
+   :alt: Reflection 2 would go here
 
 
 Graphical transformations by comparing two functions and listing the graphical transformations
@@ -12,7 +12,7 @@ Graphical transformations by comparing two functions and listing the graphical t
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates graphical transformations by comparing two functions and listing the graphical transformations
+This artifact demonstrates graphical transformations by comparing two functions and listing the graphical transformations.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ Graphical transformations by rewriting a function from a list of transformations
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates graphical transformations by rewriting a function from a list of transformations
+This artifact demonstrates graphical transformations by rewriting a function from a list of transformations.
 
 **Artifact**:
 
@@ -36,7 +36,7 @@ Graphical transformations by transforming a graph given transformations
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates graphical transformations by transforming a graph given transformations
+This artifact demonstrates graphical transformations by transforming a graph given transformations.
 
 **Artifact**:
 
@@ -48,7 +48,7 @@ All graphical transformations by using each type of transformation
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates all graphical transformations by using each type of transformation
+This artifact demonstrates all graphical transformations by using each type of transformation.
 
 **Artifact**:
 

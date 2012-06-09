@@ -2,7 +2,7 @@ Limits
 ======
 
 .. image:: reflections/12.png
-   :alt: Reflection 12
+   :alt: Reflection 12 would go here
 
 
 How to write asymptotes in limit notation
@@ -12,7 +12,7 @@ How to write asymptotes in limit notation
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates how to write asymptotes in limit notation
+This artifact demonstrates how to write asymptotes in limit notation.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ Removable discontinuity
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates removable discontinuity
+This artifact demonstrates removable discontinuity.
 
 **Artifact**:
 

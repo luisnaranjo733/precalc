@@ -2,7 +2,7 @@ Polynomial Functions, Their Graphs And Applications
 ===================================================
 
 .. image:: reflections/4.png
-   :alt: Reflection 4
+   :alt: Reflection 4 would go here
 
 
 Graphs of polynomial functions by graphing a polynomial that shows comprehension of how multiplicity and end behavior affect the graph
@@ -12,7 +12,7 @@ Graphs of polynomial functions by graphing a polynomial that shows comprehension
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates graphs of polynomial functions by graphing a polynomial that shows comprehension of how multiplicity and end behavior affect the graph
+This artifact demonstrates graphs of polynomial functions by graphing a polynomial that shows comprehension of how multiplicity and end behavior affect the graph.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ Factoring a higher degree polynomial with and without complex zeros
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates factoring a higher degree polynomial with and without complex zeros
+This artifact demonstrates factoring a higher degree polynomial with and without complex zeros.
 
 **Artifact**:
 
@@ -36,7 +36,7 @@ Factoring a higher degree polynomial that has a leading coefficiant that is not 
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates factoring a higher degree polynomial that has a leading coefficiant that is not one
+This artifact demonstrates factoring a higher degree polynomial that has a leading coefficiant that is not one.
 
 **Artifact**:
 
@@ -48,7 +48,7 @@ Solving polynomial equations and inequalities
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates solving polynomial equations and inequalities
+This artifact demonstrates solving polynomial equations and inequalities.
 
 **Artifact**:
 
@@ -60,7 +60,7 @@ Applications of polynomial functions
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates applications of polynomial functions
+This artifact demonstrates applications of polynomial functions.
 
 **Artifact**:
 

@@ -2,7 +2,7 @@ Sequences And Series
 ====================
 
 .. image:: reflections/11.png
-   :alt: Reflection 11
+   :alt: Reflection 11 would go here
 
 
 Geometric and arithmetic sequences
@@ -12,7 +12,7 @@ Geometric and arithmetic sequences
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates geometric and arithmetic sequences
+This artifact demonstrates geometric and arithmetic sequences.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ Defining sequences explicitly and recursively
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates defining sequences explicitly and recursively
+This artifact demonstrates defining sequences explicitly and recursively.
 
 **Artifact**:
 
@@ -36,7 +36,7 @@ Summations notation
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates summations notation
+This artifact demonstrates summations notation.
 
 **Artifact**:
 
@@ -48,7 +48,7 @@ Summing finite arithmetic and geometric sequences
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates summing finite arithmetic and geometric sequences
+This artifact demonstrates summing finite arithmetic and geometric sequences.
 
 **Artifact**:
 
@@ -60,7 +60,7 @@ Summing infinite geometric  sequences
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates summing infinite geometric  sequences
+This artifact demonstrates summing infinite geometric  sequences.
 
 **Artifact**:
 

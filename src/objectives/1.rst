@@ -128,15 +128,17 @@ Eliminate the parameter:
 Inverse functions and inherited domain and range
 ------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: Section 1.5: Example 4
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates inverse functions and inherited domain and range
+This artifact demonstrates inverse functions and inherited domain and range.
+
+I present a regular function, and I show its' domain and range.
+
+Then I invert it, and show that the domain and range of the result is the inverse of the original function.
 
 **Artifact**:
-
-Section 1.5: Example 4
 
 .. image:: graphs/1_inverse.png
 
@@ -164,6 +166,8 @@ Range: :math:`(-\infty, 1), (1, \infty)`
 
    f^-1 (x) = {x \over (1-x)}
 
+   \text{The domain and range are flipped because x and y were flipped.}
+
    \text{Domain: }(-\infty, 1), (1, \infty)
 
-   \text{Domain: }(-\infty, -1), (-1, \infty)
+   \text{Range: }(-\infty, -1), (-1, \infty)

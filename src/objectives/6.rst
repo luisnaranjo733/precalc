@@ -2,7 +2,7 @@ Exponential And Logistic Functions, Their Graphs And Applications
 =================================================================
 
 .. image:: reflections/6.png
-   :alt: Reflection 6
+   :alt: Reflection 6 would go here
 
 
 Writing exponential models
@@ -12,7 +12,7 @@ Writing exponential models
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates writing exponential models
+This artifact demonstrates writing exponential models.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ Writing logistic models
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates writing logistic models
+This artifact demonstrates writing logistic models.
 
 **Artifact**:
 
@@ -36,7 +36,7 @@ Graphing exponential functions
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates graphing exponential functions
+This artifact demonstrates graphing exponential functions.
 
 **Artifact**:
 
@@ -48,7 +48,7 @@ Applying exponential models
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates applying exponential models
+This artifact demonstrates applying exponential models.
 
 **Artifact**:
 
@@ -60,7 +60,7 @@ Applying logistic models
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates applying logistic models
+This artifact demonstrates applying logistic models.
 
 **Artifact**:
 

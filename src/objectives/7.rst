@@ -2,7 +2,7 @@ Logarithmic Functions Their Graphs And Applications
 ===================================================
 
 .. image:: reflections/7.png
-   :alt: Reflection 7
+   :alt: Reflection 7 would go here
 
 
 Rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
@@ -12,7 +12,7 @@ Rewriting exponentials into logarithms and logarithms into exponentials using co
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
+This artifact demonstrates rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ Properties of logarithms
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates properties of logarithms
+This artifact demonstrates properties of logarithms.
 
 **Artifact**:
 
@@ -36,7 +36,7 @@ Graphs of logarithms
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates graphs of logarithms
+This artifact demonstrates graphs of logarithms.
 
 **Artifact**:
 
@@ -48,7 +48,7 @@ Applications of logarithms
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates applications of logarithms
+This artifact demonstrates applications of logarithms.
 
 **Artifact**:
 

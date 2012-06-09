@@ -2,7 +2,7 @@ Conic Sections Their Graphs And Applications
 ============================================
 
 .. image:: reflections/10.png
-   :alt: Reflection 10
+   :alt: Reflection 10 would go here
 
 
 How to make conic models that fit given conditions
@@ -12,7 +12,7 @@ How to make conic models that fit given conditions
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates how to make conic models that fit given conditions
+This artifact demonstrates how to make conic models that fit given conditions.
 
 **Artifact**:
 
@@ -24,7 +24,7 @@ How to graph conic sections from equations
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates how to graph conic sections from equations
+This artifact demonstrates how to graph conic sections from equations.
 
 **Artifact**:
 
@@ -36,7 +36,7 @@ The applications of conic sections
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates the applications of conic sections
+This artifact demonstrates the applications of conic sections.
 
 **Artifact**:
 
@@ -48,7 +48,7 @@ How to algebraically manipulate conic equations into standard form
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates how to algebraically manipulate conic equations into standard form
+This artifact demonstrates how to algebraically manipulate conic equations into standard form.
 
 **Artifact**:
 
@@ -60,7 +60,7 @@ Parabolas, ellipses and hyperbolas
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates parabolas, ellipses and hyperbolas
+This artifact demonstrates parabolas, ellipses and hyperbolas.
 
 **Artifact**:
 
