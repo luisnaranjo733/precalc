@@ -59,7 +59,7 @@ Function decomposition
 
 **Source**: I made this problem up.
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**:
 
 In this artifact I demonstrate how a function can be decomposed into two different functions.
 
