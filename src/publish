@@ -1,0 +1,4 @@
+clean -a
+git add .
+git commit
+git push

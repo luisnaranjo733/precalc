@@ -87,31 +87,43 @@ Decompose :math:`(f \circ g)(x)`
 Parametric functions and how they relate to function composition
 ----------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: Question #4 from 1.5
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates parametric functions and how they relate to function composition
+The first example demonstrates: How to find an (x, y) pair when given a parametric function and a t value.
+
+The second example demonstrates: How a linear function can be composed from a parametric function.
 
 **Artifact**:
 
-Question #4 from 1.5
-
 Find the (x,y) pair for the value of the parameter
 
-:math:`x = |t + 3|` and :math:`y = {1 \over t}` for :math:`t = -8`:
+:math:`x = t + 3` and :math:`y = {1 \over t}` for :math:`t = -8`:
 
 .. math::
 
    (x, y)
 
-   x = |t + 3|
+   x = t + 3
 
-   x = |-8 + 3| = |-5| = 5
+   x = -8 + 3
 
-   y = {1 \over t} = {1 \over -8}
+   x = 5
+
+   y = {1 \over t}
+
+   y = {1 \over -8}
 
    (5, -{1 \over 8})
+
+Eliminate the parameter:
+
+.. math::
+
+   t = x - 3 \text{ in terms of x}
+
+   y = {1 \over (x - 3)}
 
 Inverse functions and inherited domain and range
 ------------------------------------------------
