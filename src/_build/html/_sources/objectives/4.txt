@@ -8,14 +8,34 @@ Polynomial Functions, Their Graphs And Applications
 Graphs of polynomial functions by graphing a polynomial that shows comprehension of how multiplicity and end behavior affect the graph
 --------------------------------------------------------------------------------------------------------------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Factoring a higher degree polynomial with and without complex zeros
 -------------------------------------------------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
 
 Factoring a higher degree polynomial that has a leading coefficiant that is not one
 -----------------------------------------------------------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Solving polynomial equations and inequalities
 ---------------------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Applications of polynomial functions
 ------------------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?

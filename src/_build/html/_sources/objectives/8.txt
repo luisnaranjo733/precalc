@@ -8,8 +8,20 @@ Vectors And Their Applications
 Different forms of vectors
 --------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Vector application
 ------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Finding the angle between two vectors
 -------------------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?

@@ -8,11 +8,27 @@ Transformations Of All Functions
 Graphical transformations by comparing two functions and listing the graphical transformations
 ----------------------------------------------------------------------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Graphical transformations by rewriting a function from a list of transformations
 --------------------------------------------------------------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
 
 Graphical transformations by transforming a graph given transformations
 -----------------------------------------------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 All graphical transformations by using each type of transformation
 ------------------------------------------------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?

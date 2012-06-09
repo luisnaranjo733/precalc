@@ -8,14 +8,34 @@ Exponential And Logistic Functions, Their Graphs And Applications
 Writing exponential models
 --------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Writing logistic models
 -----------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
 
 Graphing exponential functions
 ------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Applying exponential models
 ---------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Applying logistic models
 ------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?

@@ -8,11 +8,27 @@ Logarithmic Functions Their Graphs And Applications
 Rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
 ------------------------------------------------------------------------------------------------------------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Properties of logarithms
 ------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
 
 Graphs of logarithms
 --------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Applications of logarithms
 --------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?

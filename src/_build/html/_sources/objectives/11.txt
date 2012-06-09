@@ -8,14 +8,34 @@ Sequences And Series
 Geometric and arithmetic sequences
 ----------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Defining sequences explicitly and recursively
 ---------------------------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
 
 Summations notation
 -------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Summing finite arithmetic and geometric sequences
 -------------------------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Summing infinite geometric  sequences
 -------------------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?

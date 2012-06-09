@@ -2,8 +2,7 @@ Function Composition And Inverse Functions
 ==========================================
 
 .. image:: reflections/1.png
-   :alt: Reflection 1
-
+   :alt: Reflection #1
 
 Function composition and inherited domain and range
 ---------------------------------------------------
@@ -45,10 +44,6 @@ Function composition and inherited domain and range
 Function decomposition
 ----------------------
 
-**Source**: Where did this come from?
-
-**Explanation**: How does this artifact meet the objectives and goals?
-
 .. math::
 
    f(g(x)) = \sqrt{x^2 + 3}
@@ -57,14 +52,10 @@ Function decomposition
 
    f(x) = \sqrt{x}
 
-   (x) = x^2 + 3`s
+   (x) = x^2 + 3`
 
 Parametric functions and how they relate to function composition
 ----------------------------------------------------------------
-
-**Source**: Where did this come from?
-
-**Explanation**: How does this artifact meet the objectives and goals?
 
 Question #4 from 1.5
 
@@ -84,12 +75,9 @@ Find the (x,y) pair for the value of the parameter
 
    (5, -{1 \over 8})
 
+
 Inverse functions and inherited domain and range
 ------------------------------------------------
-
-**Source**: Where did this come from?
-
-**Explanation**: How does this artifact meet the objectives and goals?
 
 Section 1.5: Example 4
 
@@ -122,3 +110,5 @@ Range: :math:`(-\infty, 1), (1, \infty)`
    \text{Domain: }(-\infty, 1), (1, \infty)
 
    \text{Domain: }(-\infty, -1), (-1, \infty)
+
+

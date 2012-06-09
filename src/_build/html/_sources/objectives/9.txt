@@ -8,11 +8,27 @@ Polar Coordinates And Equations
 How to graph polar coordinates
 ------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Converting polar coordinates to rectangular coordinates and rectangular to polar
 --------------------------------------------------------------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
 
 Converting polar equations to rectangular equations and rectangular to polar
 ----------------------------------------------------------------------------
 
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
+
 Graphs of polar equations
 -------------------------
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?

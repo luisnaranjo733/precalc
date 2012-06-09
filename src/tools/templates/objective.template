@@ -7,4 +7,8 @@
 {% for proficiency in proficiencies %}
 {{proficiency|capitalize}}
 {{proficiency|length * '-'}}
+
+**Source**: Where did this come from?
+
+**Explanation**: How does this artifact meet the objectives and goals?
 {% endfor %}
