@@ -12,6 +12,11 @@ Graphs of different power functions
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates graphs of different power functions
+
+**Artifact**:
+
+
 Writing a power function from a list of data
 --------------------------------------------
 
@@ -19,9 +24,19 @@ Writing a power function from a list of data
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates writing a power function from a list of data
+
+**Artifact**:
+
+
 Applications of power functions through direct or indirect variation
 --------------------------------------------------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates applications of power functions through direct or indirect variation
+
+**Artifact**:
+

@@ -12,12 +12,22 @@ Graphical transformations by comparing two functions and listing the graphical t
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates graphical transformations by comparing two functions and listing the graphical transformations
+
+**Artifact**:
+
+
 Graphical transformations by rewriting a function from a list of transformations
 --------------------------------------------------------------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates graphical transformations by rewriting a function from a list of transformations
+
+**Artifact**:
+
 
 Graphical transformations by transforming a graph given transformations
 -----------------------------------------------------------------------
@@ -26,9 +36,19 @@ Graphical transformations by transforming a graph given transformations
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates graphical transformations by transforming a graph given transformations
+
+**Artifact**:
+
+
 All graphical transformations by using each type of transformation
 ------------------------------------------------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates all graphical transformations by using each type of transformation
+
+**Artifact**:
+

@@ -12,12 +12,22 @@ Writing exponential models
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates writing exponential models
+
+**Artifact**:
+
+
 Writing logistic models
 -----------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates writing logistic models
+
+**Artifact**:
+
 
 Graphing exponential functions
 ------------------------------
@@ -26,6 +36,11 @@ Graphing exponential functions
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates graphing exponential functions
+
+**Artifact**:
+
+
 Applying exponential models
 ---------------------------
 
@@ -33,9 +48,19 @@ Applying exponential models
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates applying exponential models
+
+**Artifact**:
+
+
 Applying logistic models
 ------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates applying logistic models
+
+**Artifact**:
+

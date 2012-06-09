@@ -12,9 +12,19 @@ How to write asymptotes in limit notation
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates how to write asymptotes in limit notation
+
+**Artifact**:
+
+
 Removable discontinuity
 -----------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates removable discontinuity
+
+**Artifact**:
+

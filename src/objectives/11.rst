@@ -12,12 +12,22 @@ Geometric and arithmetic sequences
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates geometric and arithmetic sequences
+
+**Artifact**:
+
+
 Defining sequences explicitly and recursively
 ---------------------------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates defining sequences explicitly and recursively
+
+**Artifact**:
+
 
 Summations notation
 -------------------
@@ -26,6 +36,11 @@ Summations notation
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates summations notation
+
+**Artifact**:
+
+
 Summing finite arithmetic and geometric sequences
 -------------------------------------------------
 
@@ -33,9 +48,19 @@ Summing finite arithmetic and geometric sequences
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates summing finite arithmetic and geometric sequences
+
+**Artifact**:
+
+
 Summing infinite geometric  sequences
 -------------------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates summing infinite geometric  sequences
+
+**Artifact**:
+

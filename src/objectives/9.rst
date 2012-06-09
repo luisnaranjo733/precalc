@@ -12,12 +12,22 @@ How to graph polar coordinates
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates how to graph polar coordinates
+
+**Artifact**:
+
+
 Converting polar coordinates to rectangular coordinates and rectangular to polar
 --------------------------------------------------------------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates converting polar coordinates to rectangular coordinates and rectangular to polar
+
+**Artifact**:
+
 
 Converting polar equations to rectangular equations and rectangular to polar
 ----------------------------------------------------------------------------
@@ -26,9 +36,19 @@ Converting polar equations to rectangular equations and rectangular to polar
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates converting polar equations to rectangular equations and rectangular to polar
+
+**Artifact**:
+
+
 Graphs of polar equations
 -------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates graphs of polar equations
+
+**Artifact**:
+

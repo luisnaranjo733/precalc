@@ -8,9 +8,15 @@ Function Composition And Inverse Functions
 Function composition and inherited domain and range
 ---------------------------------------------------
 
-**Source**: I found this problem on the internet
+**Source**: Where did this come from?
 
-**Explanation**: asdasasd
+**Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates function composition and inherited domain and range
+
+**Artifact**:
+
+Find :math:`(f \circ g)(x)`
 
 .. math::
 
@@ -25,8 +31,6 @@ Function composition and inherited domain and range
    \text{Domain: } (-\infty, +\infty)
 
    \text{Range: } (-\infty, 13]
-   
-   \text{find} (f \circ g)(x):
 
    (f \circ g)(x) = f(g(x))
 
@@ -49,6 +53,10 @@ Function decomposition
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates function decomposition
+
+**Artifact**:
+
 .. math::
 
    f(g(x)) = \sqrt{x^2 + 3}
@@ -65,6 +73,10 @@ Parametric functions and how they relate to function composition
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates parametric functions and how they relate to function composition
+
+**Artifact**:
 
 Question #4 from 1.5
 
@@ -90,6 +102,10 @@ Inverse functions and inherited domain and range
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates inverse functions and inherited domain and range
+
+**Artifact**:
 
 Section 1.5: Example 4
 

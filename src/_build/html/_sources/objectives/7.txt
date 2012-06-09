@@ -12,12 +12,22 @@ Rewriting exponentials into logarithms and logarithms into exponentials using co
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
+
+**Artifact**:
+
+
 Properties of logarithms
 ------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates properties of logarithms
+
+**Artifact**:
+
 
 Graphs of logarithms
 --------------------
@@ -26,9 +36,19 @@ Graphs of logarithms
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
+This artifact demonstrates graphs of logarithms
+
+**Artifact**:
+
+
 Applications of logarithms
 --------------------------
 
 **Source**: Where did this come from?
 
 **Explanation**: How does this artifact meet the objectives and goals?
+
+This artifact demonstrates applications of logarithms
+
+**Artifact**:
+
