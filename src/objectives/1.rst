@@ -8,11 +8,25 @@ Function Composition And Inverse Functions
 Function composition and inherited domain and range
 ---------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: I made this problem up
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**:
 
-This artifact demonstrates function composition and inherited domain and range
+This artifact demonstrates function composition and inherited domain and range.
+
+I present two different funtions, and I give their individual domain and range.
+
+Then, I compose them (:math:`(f \circ g)(x)`), and show the inherited domain and range of the new function.
+
+The domain of :math:`(f \circ g)(x)` is usually the domain of :math:`f(x)` and the range of :math:`g(x)`,
+
+but in this case, it is only the positive portion because :math:`(f \circ g)(x)` has a radical, and the domain of any radical is :math:`x \geq 0`
+
+**Independent Thinking**:
+
+This artifact also demonstrates independent thinking because its' source code uses quite a few LaTeX expressions that I didn't know how to use at the time.
+
+I went through the source code of another LaTeX document I found online and figured out how to use latex expressions in my code.
 
 **Artifact**:
 
@@ -20,52 +34,55 @@ Find :math:`(f \circ g)(x)`
 
 .. math::
 
-   f(x) = 2x + 3
+   f(x) = \sqrt{x}
    
-   \text{Domain: } (-\infty, +\infty)
+   \text{Domain: } [0, \infty)
    
-   \text{Range: } (-\infty, +\infty)
+   \text{Range: } [0, \infty)
    
-   g(x) = -x^2 + 5
+   g(x) = {1 \over (x-1)}
    
-   \text{Domain: } (-\infty, +\infty)
+   \text{Domain: } (-\infty, 1), (1, \infty)
 
-   \text{Range: } (-\infty, 13]
+   \text{Range: } (-\infty, 0), (0, \infty)
 
    (f \circ g)(x) = f(g(x))
 
-   f(-x^2 + 5) = 2(-x^2 + 5) + 3
+   f({1 \over (x-1)}) = \sqrt{{1 \over (x-1)}}
 
-   f(-x^2 + 5) = -2x^2 + 10 + 3
+   \text{Domain: }(1, \infty)
 
-   f(-x^2 + 5) = -2x^2 + 13
-
-   (f \circ g) = -2x^2 + 13
-
-   \text{Domain: }(-\infty, \infty)
-
-   \text{Range: }(-\infty, 13]
+   \text{Range: }(0, \infty)
 
 Function decomposition
 ----------------------
 
-**Source**: Where did this come from?
+**Source**: I made this problem up.
 
 **Explanation**: How does this artifact meet the objectives and goals?
 
-This artifact demonstrates function decomposition
+In this artifact I demonstrate how a function can be decomposed into two different functions.
+
+**Awareness and appreciation**:
+
+There is potentially an infinite amount of solutions to this problem, but this is probably the best solution for two reasons.
+
+* It is the simplest solution
+* Because it is the simplest solution, it is also the easiest to re-compose into the original function.
 
 **Artifact**:
 
+Decompose :math:`(f \circ g)(x)`
+
 .. math::
 
-   f(g(x)) = \sqrt{x^2 + 3}
+   (f \circ g)(x) = \sqrt{x^2 + 3}
    
-   \text{find } g(x) \text{and} f(x)
+   \text{find } f(x) \text{and} g(x)
 
    f(x) = \sqrt{x}
 
-   (x) = x^2 + 3`s
+   g(x) = x^2 + 3
 
 Parametric functions and how they relate to function composition
 ----------------------------------------------------------------

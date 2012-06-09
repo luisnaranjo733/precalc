@@ -2,7 +2,7 @@
 {{objective|length * '='}}
 
 .. image:: reflections/{{objective_number}}.png
-   :alt: Reflection {{objective_number}}
+   :alt: Reflection {{objective_number}} would go here
 
 {% for proficiency in proficiencies %}
 {{proficiency|capitalize}}
