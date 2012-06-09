@@ -10,7 +10,7 @@ Different forms of vectors
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates different forms of vectors.
 
@@ -22,7 +22,7 @@ Vector application
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates vector application.
 
@@ -34,7 +34,7 @@ Finding the angle between two vectors
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates finding the angle between two vectors.
 

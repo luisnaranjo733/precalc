@@ -10,7 +10,7 @@ Graphs of rational functions including all intercepts and asymptotes
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates graphs of rational functions including all intercepts and asymptotes.
 
@@ -22,7 +22,7 @@ Algebraic manipulation of rational functions
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates algebraic manipulation of rational functions.
 
@@ -34,7 +34,7 @@ Utilizing rational functions through applications
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates utilizing rational functions through applications.
 
@@ -46,7 +46,7 @@ Solving rational functions inequalities
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates solving rational functions inequalities.
 

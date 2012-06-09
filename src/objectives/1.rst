@@ -89,7 +89,7 @@ Parametric functions and how they relate to function composition
 
 **Source**: Question #4 from 1.5
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**:
 
 The first example demonstrates: How to find an (x, y) pair when given a parametric function and a t value.
 
@@ -130,7 +130,7 @@ Inverse functions and inherited domain and range
 
 **Source**: Section 1.5: Example 4
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**:
 
 This artifact demonstrates inverse functions and inherited domain and range.
 

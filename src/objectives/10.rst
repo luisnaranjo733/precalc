@@ -10,7 +10,7 @@ How to make conic models that fit given conditions
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates how to make conic models that fit given conditions.
 
@@ -22,7 +22,7 @@ How to graph conic sections from equations
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates how to graph conic sections from equations.
 
@@ -34,7 +34,7 @@ The applications of conic sections
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates the applications of conic sections.
 
@@ -46,7 +46,7 @@ How to algebraically manipulate conic equations into standard form
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates how to algebraically manipulate conic equations into standard form.
 
@@ -58,7 +58,7 @@ Parabolas, ellipses and hyperbolas
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates parabolas, ellipses and hyperbolas.
 

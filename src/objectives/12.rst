@@ -10,7 +10,7 @@ How to write asymptotes in limit notation
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates how to write asymptotes in limit notation.
 
@@ -22,7 +22,7 @@ Removable discontinuity
 
 **Source**: Where did this come from?
 
-**Explanation**: How does this artifact meet the objectives and goals?
+**Explanation**: 
 
 This artifact demonstrates removable discontinuity.
 
