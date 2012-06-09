@@ -138,6 +138,25 @@ I present a regular function, and I show its' domain and range.
 
 Then I invert it, and show that the domain and range of the result is the inverse of the original function.
 
+**Appropriate Use of Technology**
+
+I used an online graphing calculator to generate the graph below.
+
+Once I generated it:
+
+* I took a screenshot of the online graph
+* I cropped the screenshot
+* I added the image to my local code repository
+* I included the image in my source code
+* I uploaded the image to my code repository (https://github.com/doubledubba/precalc) and updated my code
+* I synchronized my readthedocs.org project with my repo
+
+**Numeric Algebraic Graphic Connection** (N.A.G.)
+
+I used a graph to show the N.A.G. connection between the original function and the inverse function.
+
+The red one is the original function, and the yellow one is the inverse function.
+
 **Artifact**:
 
 .. image:: graphs/1_inverse.png
