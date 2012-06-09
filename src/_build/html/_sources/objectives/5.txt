@@ -8,7 +8,7 @@ Rational Functions, Their Graphs, And Applications
 Graphs of rational functions including all intercepts and asymptotes
 --------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -20,7 +20,7 @@ This artifact demonstrates graphs of rational functions including all intercepts
 Algebraic manipulation of rational functions
 --------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -32,7 +32,7 @@ This artifact demonstrates algebraic manipulation of rational functions.
 Utilizing rational functions through applications
 -------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -44,7 +44,7 @@ This artifact demonstrates utilizing rational functions through applications.
 Solving rational functions inequalities
 ---------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 

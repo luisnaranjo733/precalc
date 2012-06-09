@@ -8,7 +8,7 @@ Sequences And Series
 Geometric and arithmetic sequences
 ----------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -20,7 +20,7 @@ This artifact demonstrates geometric and arithmetic sequences.
 Defining sequences explicitly and recursively
 ---------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -32,7 +32,7 @@ This artifact demonstrates defining sequences explicitly and recursively.
 Summations notation
 -------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -44,7 +44,7 @@ This artifact demonstrates summations notation.
 Summing finite arithmetic and geometric sequences
 -------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -56,7 +56,7 @@ This artifact demonstrates summing finite arithmetic and geometric sequences.
 Summing infinite geometric  sequences
 -------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 

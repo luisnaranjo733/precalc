@@ -8,7 +8,7 @@ Power Functions, Their Graphs And Applications
 Graphs of different power functions
 -----------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -20,7 +20,7 @@ This artifact demonstrates graphs of different power functions.
 Writing a power function from a list of data
 --------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -32,7 +32,7 @@ This artifact demonstrates writing a power function from a list of data.
 Applications of power functions through direct or indirect variation
 --------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 

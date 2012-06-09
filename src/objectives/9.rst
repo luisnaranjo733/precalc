@@ -8,7 +8,7 @@ Polar Coordinates And Equations
 How to graph polar coordinates
 ------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -20,7 +20,7 @@ This artifact demonstrates how to graph polar coordinates.
 Converting polar coordinates to rectangular coordinates and rectangular to polar
 --------------------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -32,7 +32,7 @@ This artifact demonstrates converting polar coordinates to rectangular coordinat
 Converting polar equations to rectangular equations and rectangular to polar
 ----------------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -44,7 +44,7 @@ This artifact demonstrates converting polar equations to rectangular equations a
 Graphs of polar equations
 -------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 

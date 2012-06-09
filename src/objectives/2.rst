@@ -8,31 +8,62 @@ Transformations Of All Functions
 Graphical transformations by comparing two functions and listing the graphical transformations
 ----------------------------------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: A problem from my notes
 
 **Explanation**: 
 
-This artifact demonstrates graphical transformations by comparing two functions and listing the graphical transformations.
+In this artifact, I compare f(x) and g(x), and then list the graphical transformations required to get from f(x) to g(x).
+
+I got the solution by referencing the formula: :math:`a*f(b(x-c))+d`
+
+:math:`g(x)` fits the formula like so: :math:`3 * f(1(x-1)) + 2`
 
 **Artifact**:
 
+Describe how the graph of :math:`f(x) = \sqrt{x}` can be transformed into :math:`g(x) = 3 * \sqrt{(x - 1)} + 2`
+
+#. Horizontal shift of f(x) by **one** unit beacuse c shifts the graph horizontally by d units.
+#. Vertical shift of f(x) by **two** units because d shifts the graph vertically by d units.
+#. Vertical stretch by magnitude of **three** because :math:`a > 1`
 
 Graphical transformations by rewriting a function from a list of transformations
 --------------------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: From my notes
 
 **Explanation**: 
 
 This artifact demonstrates graphical transformations by rewriting a function from a list of transformations.
 
+Similarly to the previous proficiency, I got the solution by referencing the formula: :math:`a*f(b(x-c))+d`
+
+Here are the steps I took to get from :math:`\sqrt{x}` to :math:`-4 * \sqrt{3(x-2)} + 5`, in order.
+
+#. :math:`-\sqrt{x}`
+#. :math:`-4\sqrt{x}`
+#. :math:`-4\sqrt{3x}`
+#. :math:`-4\sqrt{3(x-2)}`
+#. :math:`-4\sqrt{3(x-2)+5}`
+
+
 **Artifact**:
 
+Transform :math:`f(x) = \sqrt{x}` into :math:`g(x)`
+
+#. Reflect over the x-axis
+#. Vertical stretch by a magnitude of **four**
+#. Horizontal shrink by a magnitude of :math:`{1 \over 3}`
+#. Horizontal shift by **two** units.
+#. Vertical shift by **five** units.
+
+.. math::
+
+   g(x) = -4 * \sqrt{3(x-2)} + 5
 
 Graphical transformations by transforming a graph given transformations
 -----------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -44,7 +75,7 @@ This artifact demonstrates graphical transformations by transforming a graph giv
 All graphical transformations by using each type of transformation
 ------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 

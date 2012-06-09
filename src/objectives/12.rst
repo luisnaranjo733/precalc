@@ -8,7 +8,7 @@ Limits
 How to write asymptotes in limit notation
 -----------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -20,7 +20,7 @@ This artifact demonstrates how to write asymptotes in limit notation.
 Removable discontinuity
 -----------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 

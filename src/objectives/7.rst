@@ -8,7 +8,7 @@ Logarithmic Functions Their Graphs And Applications
 Rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
 ------------------------------------------------------------------------------------------------------------------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -20,7 +20,7 @@ This artifact demonstrates rewriting exponentials into logarithms and logarithms
 Properties of logarithms
 ------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -32,7 +32,7 @@ This artifact demonstrates properties of logarithms.
 Graphs of logarithms
 --------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
@@ -44,7 +44,7 @@ This artifact demonstrates graphs of logarithms.
 Applications of logarithms
 --------------------------
 
-**Source**: Where did this come from?
+**Source**: 
 
 **Explanation**: 
 
