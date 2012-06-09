@@ -2,27 +2,28 @@ Function Composition And Inverse Functions
 ==========================================
 
 .. image:: reflections/1.png
-   :alt: Reflection 1
+   :alt: Reflection #1
+
 
 
 Function composition and inherited domain and range
 ---------------------------------------------------
 
-:math:`f(x) = 2x + 3`
-
-:math:`\lim_{x \to +\infty} = \infty`
-
-:math:`\lim_{x \to -\infty} = -\infty`
-
-:math:`g(x) = -x^2 + 5`
-
-:math:`\lim_{x \to +\infty} = \infty`
-
-:math:`\lim_{x \to -\infty} = \infty`
-
-**find** :math:`(f \circ g)(x)`:
-
 .. math::
+
+   f(x) = 2x + 3
+   
+   \text{Domain: } (-\infty, +\infty)
+   
+   \text{Range: } (-\infty, +\infty)
+   
+   g(x) = -x^2 + 5`
+   
+   \text{Domain: } (-\infty, +\infty)
+
+   \text{Range: } (-\infty, 13]
+   
+   \text{find} (f \circ g)(x):
 
    (f \circ g)(x) = f(g(x))
 
@@ -32,15 +33,52 @@ Function composition and inherited domain and range
 
    f(-x^2 + 5) = -2x^2 + 13
 
+   (f \circ g) = -2x^2 + 13
+
+   \text{Domain: }(-\infty, \infty)
+
+   \text{Range: }(-\infty, 13]
+
 Function decomposition
 ----------------------
 
-If :math:`f(g(x)) = \sqrt{x^2 + 3}`, then find :math:`g(x)` and :math:`f(x)`.
+.. math::
 
-:math:`f(x) = \sqrt{x}` and :math:`g(x) = x^2 + 3`
+   f(g(x)) = \sqrt{x^2 + 3}
+   
+   \text{find } g(x) \text{and} f(x)
+
+   f(x) = \sqrt{x}
+
+   (x) = x^2 + 3`
 
 Parametric functions and how they relate to function composition
 ----------------------------------------------------------------
 
 Inverse functions and inherited domain and range
 ------------------------------------------------
+
+Section 1.5: Example 4
+
+.. image:: graphs/1_inverse.png
+
+Find an equation for :math:`f^-1 (x)` if :math:`f(x) = {x \over (x+1)}`.
+
+.. math::
+
+   x = {y \over (y+1)}
+
+   x(y + 1) = y
+
+   xy + x = y
+
+   xy - y = -x
+
+   y(x - 1) = -x
+
+   y = {-x \over (x-1)}
+
+   y = {x \over (1-x)}
+
+   f^-1 (x) = {x \over (1-x)}
+
