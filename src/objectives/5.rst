@@ -16,6 +16,11 @@ This artifact demonstrates graphs of rational functions including all intercepts
 
 **Artifact**:
 
+:math:`\text{Graph of }f(x) = {1 \over x}`
+
+.. image:: graphs/5_reciprocal.png
+   :height: 500px
+   :width: 700 px
 
 Algebraic manipulation of rational functions
 --------------------------------------------
