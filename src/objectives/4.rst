@@ -36,7 +36,7 @@ Graph of :math:`(x-5)(x+2)^2`
 Factoring a higher degree polynomial with and without complex zeros
 -------------------------------------------------------------------
 
-**Source**: 
+**Source**: Chapter 2 test #1 calculator portion
 
 **Explanation**: 
 
@@ -44,6 +44,31 @@ This artifact demonstrates factoring a higher degree polynomial with and without
 
 **Artifact**:
 
+Reduce :math:`x^4 - 3x^3 - 6x^2 + 6x + 8`
+
+Synthetic division (divided by -1)
+
+==== === ==== === ===
+1    -3  -6   6   8
+==== === ==== === === 
+0    -1  4    2   -8
+1    -4  -2   8   0
+==== === ==== === ===
+
+:math:`(x+1)(x^3-4x^2-2x+8)`
+
+Synthetic Division (divided by 4)
+
+==== === ==== ===
+1    -4  -2   8  
+==== === ==== ===
+0    4   0    -8
+1    0   -2   0
+==== === ==== ===
+
+:math:`(x+1)(x-4)(x^2-2)`
+
+:math:`(x+1)(x-4)(x-\sqrt{2})(x+\sqrt{2})`
 
 Factoring a higher degree polynomial that has a leading coefficient that is not one
 -----------------------------------------------------------------------------------
