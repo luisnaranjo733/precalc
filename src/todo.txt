@@ -1,2 +1,3 @@
 Check 1.4
 1.3 how they relate to function composition
+2[:-1] not done

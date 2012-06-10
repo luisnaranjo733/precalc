@@ -160,6 +160,8 @@ The red one is the original function, and the yellow one is the inverse function
 **Artifact**:
 
 .. image:: graphs/1_inverse.png
+   :height: 500px
+   :width: 700 px
 
 Find an equation for :math:`f^-1 (x)` if :math:`f(x) = {x \over (x+1)}`.
 

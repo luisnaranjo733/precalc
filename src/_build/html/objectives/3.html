@@ -60,21 +60,85 @@
 <p><strong>Source</strong>:</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates graphs of different power functions.</p>
+<p><strong>Orange</strong>: <span class="math">\(a &lt; 0\)</span></p>
+<p><strong>Red</strong>: <span class="math">\(a &gt; 0\)</span></p>
+<p><strong>Green</strong>: <span class="math">\(a = 1\)</span></p>
+<p><strong>Purple</strong>: <span class="math">\(0 &lt; a &lt; 1\)</span></p>
+<img alt="../_images/3_1.png" src="../_images/3_1.png" style="width: 700px; height: 500px;" />
 <p><strong>Artifact</strong>:</p>
 </div>
 <div class="section" id="writing-a-power-function-from-a-list-of-data">
 <h2>Writing a power function from a list of data<a class="headerlink" href="#writing-a-power-function-from-a-list-of-data" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: Chapter 2 Test Non Calculator #1</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates writing a power function from a list of data.</p>
 <p><strong>Artifact</strong>:</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">x</th>
+<th class="head">y</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>1</td>
+<td>32</td>
+</tr>
+<tr class="row-odd"><td>2</td>
+<td>8</td>
+</tr>
+<tr class="row-even"><td>6</td>
+<td>8/9</td>
+</tr>
+<tr class="row-odd"><td>8</td>
+<td>0.5</td>
+</tr>
+<tr class="row-even"><td>20</td>
+<td>0.32</td>
+</tr>
+</tbody>
+</table>
+<p><span class="math">\(2^n = {1 \over 4}\\
+n = -2\\
+8 = a2^{-2}\\
+a = 32\\
+y = 32x^{-2}\)</span></p>
+<a class="reference internal image-reference" href="../_images/3_2.png"><img alt="../_images/3_2.png" src="../_images/3_2.png" style="width: 525.0px; height: 375.0px;" /></a>
+<p>Testing it out in python:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="n">points</span> <span class="o">=</span> <span class="p">(</span>  <span class="c"># dataset</span>
+    <span class="p">(</span><span class="mf">1.0</span><span class="p">,</span> <span class="mf">32.0</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">2.0</span><span class="p">,</span> <span class="mf">8.0</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">6.0</span><span class="p">,</span> <span class="mf">8.0</span><span class="o">/</span><span class="mf">9.0</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">8.0</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">10.0</span><span class="p">,</span> <span class="mf">0.32</span><span class="p">),</span>
+<span class="p">)</span>
+
+<span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>  <span class="c"># This is a function. A x value gets plugged in, and a y value comes out.</span>
+    <span class="k">return</span> <span class="mf">32.0</span><span class="o">*</span><span class="n">x</span><span class="o">**-</span><span class="mi">2</span>  <span class="c"># same as 32*x^-2</span>
+
+<span class="k">for</span> <span class="n">x</span><span class="p">,</span><span class="n">y</span> <span class="ow">in</span> <span class="n">points</span><span class="p">:</span>  <span class="c"># This is a recursive loop. x and y are variables points from our dataset</span>
+    <span class="k">assert</span> <span class="n">y</span> <span class="o">==</span> <span class="n">f</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>  <span class="c"># If y is not equal to f(x), then the program will fail.</span>
+</pre></div>
+</div>
 </div>
 <div class="section" id="applications-of-power-functions-through-direct-or-indirect-variation">
 <h2>Applications of power functions through direct or indirect variation<a class="headerlink" href="#applications-of-power-functions-through-direct-or-indirect-variation" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: Chapter 2 Test (calculator portion) #2</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates applications of power functions through direct or indirect variation.</p>
 <p><strong>Artifact</strong>:</p>
+<p>The top speed at which a person can sprint varies <em>directly</em> as the <em>square</em> of their stride length.</p>
+<p>If a person can run at a top speed of 14 mph with a stride length of 0.6m,</p>
+<p>how fast can she run if she increases her stride length to 0.65 meters?</p>
+<p><span class="math">\(s(l) = a*l^2\\
+14 = a*0.6^2\\
+a = 38.89\\
+s(l) = 39.89l^2\\
+s(0.6) = 13.969 \text{ mph}\\
+s(0.65) = 16.393 \text{ mph}\)</span></p>
 </div>
 </div>
 
