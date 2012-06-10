@@ -8,14 +8,30 @@ Polynomial Functions, Their Graphs And Applications
 Graphs of polynomial functions by graphing a polynomial that shows comprehension of how multiplicity and end behavior affect the graph
 --------------------------------------------------------------------------------------------------------------------------------------
 
-**Source**: 
+**Source**: Found an online tutorial about multiplicity, I got the function below from there.
 
 **Explanation**: 
 
 This artifact demonstrates graphs of polynomial functions by graphing a polynomial that shows comprehension of how multiplicity and end behavior affect the graph.
 
+The graph below has two zeros (5 and -2) and a multiplicity of 3.
+
+While the zeroes overlap and stay the same, changing the exponents of these linear factors changes the end behavior of the graph.
+
+The exponents currently add up to 3 (multiplicity), which is an odd number.
+
+Because the multiplicity is odd, the graph looks the way it does.
+If you were to change the multiplicity to any odd number, the graph would have the same end behavior and look essentially the same.
+
+If the multiplicity were even, the end behavior would be different (parabolic).
+
 **Artifact**:
 
+Graph of :math:`(x-5)(x+2)^2`
+
+.. image:: graphs/4_odd_multiplicity.png
+   :height: 500px
+   :width: 700 px
 
 Factoring a higher degree polynomial with and without complex zeros
 -------------------------------------------------------------------
@@ -29,7 +45,7 @@ This artifact demonstrates factoring a higher degree polynomial with and without
 **Artifact**:
 
 
-Factoring a higher degree polynomial that has a leading coefficiant that is not one
+Factoring a higher degree polynomial that has a leading coefficient that is not one
 -----------------------------------------------------------------------------------
 
 **Source**: 
