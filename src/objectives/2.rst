@@ -35,7 +35,7 @@ Graphical transformations by rewriting a function from a list of transformations
 
 This artifact demonstrates graphical transformations by rewriting a function from a list of transformations.
 
-Similarly to the previous proficiency, I got the solution by referencing the formula: :math:`a*f(b(x-c))+d`
+Like the previous proficiency, I got the solution by referencing the formula: :math:`a*f(b(x-c))+d`
 
 Here are the steps I took to get from :math:`\sqrt{x}` to :math:`-4 * \sqrt{3(x-2)} + 5`, in order.
 
@@ -68,6 +68,15 @@ Graphical transformations by transforming a graph given transformations
 **Explanation**: 
 
 This artifact demonstrates graphical transformations by transforming a graph given transformations.
+
+Like the previous proficiencies, I got the solution by referencing the formula: :math:`a*f(b(x-c))+d` 
+
+Here are the steps I took to get from :math:`f(x) = \sqrt{x}` to :math:`g(x)`.
+
+#. :math:`4\sqrt{x}`
+#. :math:`4\sqrt{3x}`
+#. :math:`4\sqrt{3(x-2)}`
+#. :math:`4\sqrt{3(x-2)+3}`
 
 **Appropriate Use of Technology**
 
@@ -102,11 +111,25 @@ Transform :math:`f(x) = \sqrt{x}` into :math:`g(x)` with the following transform
 All graphical transformations by using each type of transformation
 ------------------------------------------------------------------
 
-**Source**: 
+**Source**: I made it up.
 
 **Explanation**: 
 
 This artifact demonstrates all graphical transformations by using each type of transformation.
 
+It shows proficiency in:
+
+* Reflection
+* Translation
+* Stretches and shrinks
+
 **Artifact**:
+
+Transform :math:`f(x) = |x|` into :math:`g(x) = -3|4(x+4)|-7`
+
+#. Reflect over x-axis
+#. Vertical stretch by magnitude of 3
+#. Horizontal shrink by magnitude of :math:`{1 \over 4}`
+#. Horizontal shift by **-4** units.
+#. Vertical shift by **-7** units.
 

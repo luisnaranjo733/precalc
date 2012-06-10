@@ -57,21 +57,53 @@
 <img alt="Reflection 3 would go here" src="objectives/reflections/3.png" />
 <div class="section" id="graphs-of-different-power-functions">
 <h2>Graphs of different power functions<a class="headerlink" href="#graphs-of-different-power-functions" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: Section 2.2 Figure 2.14</p>
 <p><strong>Explanation</strong>:</p>
-<p>This artifact demonstrates graphs of different power functions.</p>
-<p><strong>Orange</strong>: <span class="math">\(a &lt; 0\)</span></p>
-<p><strong>Red</strong>: <span class="math">\(a &gt; 0\)</span></p>
-<p><strong>Green</strong>: <span class="math">\(a = 1\)</span></p>
-<p><strong>Purple</strong>: <span class="math">\(0 &lt; a &lt; 1\)</span></p>
-<img alt="../_images/3_1.png" src="../_images/3_1.png" style="width: 700px; height: 500px;" />
+<p>This artifact demonstrates graphs of different power functions (<span class="math">\(y = a*x^n\)</span>).</p>
+<p>There are really four different ways that power functions will look like.</p>
+<p>The orange function is one where <span class="math">\(n &lt; 0\)</span>.</p>
+<p>The red on is where <span class="math">\(n &gt; 0\)</span></p>
+<p>The green one is where <span class="math">\(n = 1\)</span></p>
+<p>The purple on is where <span class="math">\(0 &lt; n &lt; 1\)</span></p>
 <p><strong>Artifact</strong>:</p>
+<p><em>Orange</em>: <span class="math">\(y = x^-1\)</span></p>
+<p><em>Red</em>: <span class="math">\(y = x^2\)</span></p>
+<p><em>Green</em>: <span class="math">\(y = x^1\)</span></p>
+<p><em>Purple</em>: <span class="math">\(y = x^{1 \over 2}\)</span></p>
+<img alt="../_images/3_1.png" src="../_images/3_1.png" style="width: 700px; height: 500px;" />
 </div>
 <div class="section" id="writing-a-power-function-from-a-list-of-data">
 <h2>Writing a power function from a list of data<a class="headerlink" href="#writing-a-power-function-from-a-list-of-data" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>: Chapter 2 Test Non Calculator #1</p>
+<p><strong>Source</strong>: Chapter 2 Test Non Calculator #1, and python code</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates writing a power function from a list of data.</p>
+<p>I got the first statement (<span class="math">\(2^n = {1 \over 4}\)</span>) from the first two points in the data set.</p>
+<p>In the x, <span class="math">\(1x = 2\\x = {2 \over 1} = 2\)</span></p>
+<p>In the y, <span class="math">\(32x = 8\\x = {8 \over 32} = {1 \over 4}\)</span></p>
+<p>From there I infer that <span class="math">\(2^n = {1 \over 4}\)</span>, solve for n, and compose a power function.</p>
+<p><strong>Numeric Algebraic Graphic Connection</strong></p>
+<p>My function is backed up by this graph (look at 2,8 - it matches the data set):</p>
+<a class="reference internal image-reference" href="../_images/3_2.png"><img alt="../_images/3_2.png" src="../_images/3_2.png" style="width: 525.0px; height: 375.0px;" /></a>
+<p><strong>Application and Independent Thinking</strong></p>
+<p>I wrote a python script to validate my function.</p>
+<p>This demonstrates Application because I was able to apply this math problem into a program, which is a very usefull skill.</p>
+<p>It also demonstrates independent thinking because I taught myself how to write python code.</p>
+<p>It runs successfully:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="n">points</span> <span class="o">=</span> <span class="p">(</span>  <span class="c"># dataset</span>
+    <span class="p">(</span><span class="mf">1.0</span><span class="p">,</span> <span class="mf">32.0</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">2.0</span><span class="p">,</span> <span class="mf">8.0</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">6.0</span><span class="p">,</span> <span class="mf">8.0</span><span class="o">/</span><span class="mf">9.0</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">8.0</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">),</span>
+    <span class="p">(</span><span class="mf">10.0</span><span class="p">,</span> <span class="mf">0.32</span><span class="p">),</span>
+<span class="p">)</span>
+
+<span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>  <span class="c"># This is a function. A x value gets plugged in, and a y value comes out.</span>
+    <span class="k">return</span> <span class="mf">32.0</span><span class="o">*</span><span class="n">x</span><span class="o">**-</span><span class="mi">2</span>  <span class="c"># same as 32*x^-2</span>
+
+<span class="k">for</span> <span class="n">x</span><span class="p">,</span><span class="n">y</span> <span class="ow">in</span> <span class="n">points</span><span class="p">:</span>  <span class="c"># This is a recursive loop. x and y are variables points from our dataset</span>
+    <span class="k">assert</span> <span class="n">y</span> <span class="o">==</span> <span class="n">f</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>  <span class="c"># If y is not equal to f(x), then the program will fail.</span>
+</pre></div>
+</div>
 <p><strong>Artifact</strong>:</p>
 <table border="1" class="docutils">
 <colgroup>
@@ -106,29 +138,21 @@ n = -2\\
 8 = a2^{-2}\\
 a = 32\\
 y = 32x^{-2}\)</span></p>
-<a class="reference internal image-reference" href="../_images/3_2.png"><img alt="../_images/3_2.png" src="../_images/3_2.png" style="width: 525.0px; height: 375.0px;" /></a>
-<p>Testing it out in python:</p>
-<div class="highlight-python"><div class="highlight"><pre><span class="n">points</span> <span class="o">=</span> <span class="p">(</span>  <span class="c"># dataset</span>
-    <span class="p">(</span><span class="mf">1.0</span><span class="p">,</span> <span class="mf">32.0</span><span class="p">),</span>
-    <span class="p">(</span><span class="mf">2.0</span><span class="p">,</span> <span class="mf">8.0</span><span class="p">),</span>
-    <span class="p">(</span><span class="mf">6.0</span><span class="p">,</span> <span class="mf">8.0</span><span class="o">/</span><span class="mf">9.0</span><span class="p">),</span>
-    <span class="p">(</span><span class="mf">8.0</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">),</span>
-    <span class="p">(</span><span class="mf">10.0</span><span class="p">,</span> <span class="mf">0.32</span><span class="p">),</span>
-<span class="p">)</span>
-
-<span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>  <span class="c"># This is a function. A x value gets plugged in, and a y value comes out.</span>
-    <span class="k">return</span> <span class="mf">32.0</span><span class="o">*</span><span class="n">x</span><span class="o">**-</span><span class="mi">2</span>  <span class="c"># same as 32*x^-2</span>
-
-<span class="k">for</span> <span class="n">x</span><span class="p">,</span><span class="n">y</span> <span class="ow">in</span> <span class="n">points</span><span class="p">:</span>  <span class="c"># This is a recursive loop. x and y are variables points from our dataset</span>
-    <span class="k">assert</span> <span class="n">y</span> <span class="o">==</span> <span class="n">f</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>  <span class="c"># If y is not equal to f(x), then the program will fail.</span>
-</pre></div>
-</div>
 </div>
 <div class="section" id="applications-of-power-functions-through-direct-or-indirect-variation">
 <h2>Applications of power functions through direct or indirect variation<a class="headerlink" href="#applications-of-power-functions-through-direct-or-indirect-variation" title="Permalink to this headline">¶</a></h2>
 <p><strong>Source</strong>: Chapter 2 Test (calculator portion) #2</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates applications of power functions through direct or indirect variation.</p>
+<p>From reading the problem, I could infer that (0.6, 14) was a point on the graph of the power function being described.</p>
+<p>I understand as well that the function would be a function of length squared, and that is how I got the algebraic function.</p>
+<p>Using my first observation of the point on the line, I plugged in what I knew about the previously defined algebraic function (x and y).</p>
+<p>At that point, I was able to solve for the only remaining variable, the constant of variation.</p>
+<p>Having been provided the power of the x in the problem, and having solved for the constant of variation,
+I was able to compose the formula <span class="math">\(s(l) = 39.89 * l^2\)</span></p>
+<p>From there, it was only a matter of solving for s(0.65) to answer the question.</p>
+<p><strong>Application</strong></p>
+<p>This problem demonstrates the application of a classroom math problem to a real life situation.</p>
 <p><strong>Artifact</strong>:</p>
 <p>The top speed at which a person can sprint varies <em>directly</em> as the <em>square</em> of their stride length.</p>
 <p>If a person can run at a top speed of 14 mph with a stride length of 0.6m,</p>
