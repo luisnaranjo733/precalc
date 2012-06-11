@@ -8,7 +8,7 @@ Logarithmic Functions Their Graphs And Applications
 Rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases
 ------------------------------------------------------------------------------------------------------------------------------------
 
-**Source**: 
+**Source**: I made these up.
 
 **Explanation**: 
 
@@ -16,17 +16,58 @@ This artifact demonstrates rewriting exponentials into logarithms and logarithms
 
 **Artifact**:
 
+.. math::
+
+   4^x = 6
+
+   log_4 6 = x
+
+   e^x = e
+
+   ln(e)
+
 
 Properties of logarithms
 ------------------------
 
-**Source**: 
+**Source**: Notes
 
 **Explanation**: 
 
 This artifact demonstrates properties of logarithms.
 
+1) This problem demonstrates the Product Rule.
+
+:math:`log_b {rs} = log_b r + log_b s`
+
+2) This problem demonstrates the Quotient Rule.
+
+:math:`log_b {r \over s} = log_b r - log_b s`
+
+3) This problem demonstrates the Power Rule.
+
+:math:`log_b {r^c} = log_b r * c`
+
 **Artifact**:
+
+1) :math:`log(x+6) + log(x-2) = 2`
+
+.. math::
+
+   log((x+6)(x-2)) = 2
+
+   log(x^2 + 4x -12) = 2
+
+   10^2 = x^2 + 4x -12
+
+   x^2 + 4x -112 = 0
+
+   x \approx 8.77 \text{ or } x \approx -12.770
+
+
+
+
+
 
 
 Graphs of logarithms
