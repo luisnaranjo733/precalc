@@ -60,9 +60,19 @@
 <p><strong>Source</strong>: I made these up.</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates rewriting exponentials into logarithms and logarithms into exponentials using common log, natural log, and logarithms of other bases.</p>
+<ol class="arabic simple">
+<li>Exponential <span class="math">\(\rightarrow\)</span> Common Log</li>
+<li>Commong log <span class="math">\(\rightarrow\)</span> Exponential</li>
+<li>Exponential <span class="math">\(\rightarrow\)</span> Natural Log</li>
+<li>Natural log <span class="math">\(\rightarrow\)</span> exponential</li>
+</ol>
 <p><strong>Artifact</strong>:</p>
-<div class="math">
-\[4^x = 6\]\[log_4 6 = x\]\[e^x = e\]\[ln(e)\]</div>
+<ol class="arabic simple">
+<li><span class="math">\(4^x = 6 \rightarrow log_4 6 = x\)</span></li>
+<li><span class="math">\(log_2 2 = x \rightarrow 2^x = 2\)</span></li>
+<li><span class="math">\(e^x = e \rightarrow ln(e)\)</span></li>
+<li><span class="math">\(ln(8) \rightarrow e^x = 8\)</span></li>
+</ol>
 </div>
 <div class="section" id="properties-of-logarithms">
 <h2>Properties of logarithms<a class="headerlink" href="#properties-of-logarithms" title="Permalink to this headline">¶</a></h2>
@@ -87,20 +97,93 @@
 </ol>
 <div class="math">
 \[log((x+6)(x-2)) = 2\]\[log(x^2 + 4x -12) = 2\]\[10^2 = x^2 + 4x -12\]\[x^2 + 4x -112 = 0\]\[x \approx 8.77 \text{ or } x \approx -12.770\]</div>
+<ol class="arabic simple" start="2">
+<li><span class="math">\(log(x+6) - log(x-2) = 2\)</span></li>
+</ol>
+<div class="math">
+\[log({(x+6) \over (x-2)}) = 2\]\[10^2 = {(x+6) \over (x-2)}\]\[x \approx {26 \over 9}\]</div>
+<ol class="arabic simple" start="3">
+<li><span class="math">\(\text{Solve for }log_4 117\)</span></li>
+</ol>
+<div class="math">
+\[4^x = 117\]\[log(4^x) = log(117)\]\[x * log(4) = log(117)\]\[x = {log(117) \over log(4)} = 3.435\]</div>
 </div>
 <div class="section" id="graphs-of-logarithms">
 <h2>Graphs of logarithms<a class="headerlink" href="#graphs-of-logarithms" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: Made it up.</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates graphs of logarithms.</p>
+<p>I started with the base function <span class="math">\(y = log(x)\)</span> and manipulated it into <span class="math">\(log(x-3)+1\)</span>.</p>
+<p>The formula <span class="math">\(y = log(x)\)</span> is the same as <span class="math">\(10^y = x\)</span>, which is easier to evaluate (for y).</p>
 <p><strong>Artifact</strong>:</p>
+<p>Graph <span class="math">\(log(x-3)+1\)</span></p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">x</th>
+<th class="head">y</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>0.01</td>
+<td>-2</td>
+</tr>
+<tr class="row-odd"><td>0.1</td>
+<td>-1</td>
+</tr>
+<tr class="row-even"><td>1</td>
+<td>0</td>
+</tr>
+<tr class="row-odd"><td>10</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<table border="1" class="docutils">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">x+3</th>
+<th class="head">y+1</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>3.01</td>
+<td>-1</td>
+</tr>
+<tr class="row-odd"><td>3.1</td>
+<td>0</td>
+</tr>
+<tr class="row-even"><td>4</td>
+<td>1</td>
+</tr>
+<tr class="row-odd"><td>13</td>
+<td>2</td>
+</tr>
+</tbody>
+</table>
+<img alt="../_images/7_log_graph.png" src="../_images/7_log_graph.png" style="width: 700px; height: 500px;" />
 </div>
 <div class="section" id="applications-of-logarithms">
 <h2>Applications of logarithms<a class="headerlink" href="#applications-of-logarithms" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: #53 from Section 3.4</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates applications of logarithms.</p>
+<p>In the first step I demonstrate that I know how to re-write common logs into exponential form.</p>
+<p>After that, I can plug in the given x value (40 ft) and the equation becomes linear and easy to solve.</p>
+<p><strong>Awareness and Appreciation</strong>:</p>
+<p>In this artifact I demonstrate that I am aware that I am error-prone even if the problem is easy,
+and that I can appreciate double-checking my answers.</p>
 <p><strong>Artifact</strong>:</p>
+<p>The relationship between intensity <em>I</em> of light (in lumens) at a depth of x feet in Lake Superior is given by <span class="math">\(log({I \over 12}) = -0.00235x\)</span></p>
+<p>What is the intensity at a depth of 40 ft?</p>
+<div class="math">
+\[10^{-0.00235x} = {I \over 12}\]\[0.805358 = {I \over 12}\]\[I = 9.664541294 \text{ lumens}\]\[\begin{split}\text{Checking my work...}\\\end{split}\]\[log({9.664541294 \over 12}) = -0.94\]\[-0.00235 * 40 = -0.94\]</div>
 </div>
 </div>
 
