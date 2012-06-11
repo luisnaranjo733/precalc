@@ -105,5 +105,3 @@ This artifact demonstrates solving rational functions inequalities.
 .. image:: graphs/5_inequalities.png
    :height: 500px
    :width: 700 px
-
-:math:`{x^2 -9 \over x^2 -1} < 0 when `
