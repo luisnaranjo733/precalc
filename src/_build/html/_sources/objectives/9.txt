@@ -54,14 +54,49 @@ Rectangular coordinate = :math:`(-2.60, 1.5)`
 Converting polar equations to rectangular equations and rectangular to polar
 ----------------------------------------------------------------------------
 
-**Source**: 
+**Source**: Section 6.4 Example 5 and Example 6
 
 **Explanation**: 
 
 This artifact demonstrates converting polar equations to rectangular equations and rectangular to polar.
 
+:math:`r^2 = x^2 + y^2\\
+x = r \cos \theta\\
+y = r \sin \theta`
+
+#. Here I simplify :math:`r = 4 \sec \theta` into :math:`r \cos \theta` so I can substitute for :math:`x` using the formula :math:`x = r \cos \theta`. The answer is the line :math:`x = 4`.
+
+#. Here I simplify the original equation into x's and y's in both the second and first degree because I can subsitute them with the conversion formulas :math:`\\x = r \cos \theta \text{ and } y = r \sin \theta`
+
 **Artifact**:
 
+#. Convert :math:`r = 4 \sec \theta` to rectangular form.
+
+.. math::
+
+   r = 4 \sec \theta
+
+   {r \over \sec \theta} = 4
+
+   r \cos \theta = 4
+
+   x = 4
+
+#. Convert :math:`(x-3)^2 + (y-2)^2 = 13` to polar form.
+
+.. math::
+
+   (x-3)^2 + (y-2)^2 = 13
+
+   x^2 - 6x + 9 + y^2 -4y + 4 = 13
+
+   x^2 + y^2 -6x -4y = 0
+
+   r^2 - 6r \cos \theta -4r \sin \theta = 0
+
+   r(r - 6 \cos \theta - 4 \sin \theta) = 0
+
+   r = 0 \text{ or } r - 6 \cos \theta - 4 \sin \theta = 0
 
 Graphs of polar equations
 -------------------------
