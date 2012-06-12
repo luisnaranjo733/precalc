@@ -14,8 +14,15 @@ How to graph polar coordinates
 
 This artifact demonstrates how to graph polar coordinates.
 
+In the polar coordinate :math:`P(2, { \pi \over 3})`, the directed distance is 2, and the directed angle is :math:`\pi \over 3`.
+
+So the pole starts at 2 on the O ray, and swivels out by :math:`\pi \over 3` degrees.
+
 **Artifact**:
 
+Plot the point :math:`P(2, { \pi \over 3})`
+
+.. image:: graphs/9_graph_coord.png
 
 Converting polar coordinates to rectangular coordinates and rectangular to polar
 --------------------------------------------------------------------------------
@@ -101,11 +108,29 @@ y = r \sin \theta`
 Graphs of polar equations
 -------------------------
 
-**Source**: 
+**Source**: Section 6.5 Example 5
 
 **Explanation**: 
 
 This artifact demonstrates graphs of polar equations.
 
+From graphing the polar equation :math:`r = 3 -3 \sin x` in radian/function mode, I can tell that the maximum r value is 6 because that is the highest y valu you can ever get on this particulur sinusoid.
+
+.. image:: graphs/9_graph.png
+   :height: 500px
+   :width: 700 px
+
+The rest of the information can be gathered visually.
+
 **Artifact**:
+
+Analyze the graph of :math:`r = 3 -3 \sin \theta`.
+
+Domain: All real numbers
+
+Range: [0, 6]
+
+Symmetric about the y-axis
+
+Maximum r-value = 6
 
