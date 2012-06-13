@@ -1,0 +1,54 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.6.2)  12 JUN 2012 19:04
+entering extended mode
+ %&-line parsing enabled.
+**\circ
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 0.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 0.
+
+*X
+
+*x
+
+*
+! Missing $ inserted.
+<inserted text> 
+                $
+<*> 
+    
+? 
+
+Overfull \hbox (39.78471pt too wide) detected at line 0
+[]$\OMS/cmsy/m/n/10 ^^N\OML/cmm/m/it/10 Xx$ 
+ []
+
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+(Please type a command or say `\end')
+*
+! Emergency stop.
+<*> 
+    
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 4 strings out of 493849
+ 129 string characters out of 1152847
+ 47808 words of memory out of 3000000
+ 3383 multiletter control sequences out of 15000+50000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 17i,1n,12p,23b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.

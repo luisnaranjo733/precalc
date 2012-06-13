@@ -97,7 +97,7 @@ objective_info = [
     'defining sequences explicitly and recursively',
     'summations notation',
     'summing finite arithmetic and geometric sequences',
-    'summing infinite geometric  sequences']],
+    'summing infinite geometric sequences']],
 
 ['limits', [
     'how to write asymptotes in limit notation', 

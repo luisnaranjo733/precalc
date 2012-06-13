@@ -57,38 +57,91 @@
 <img alt="Reflection 11 would go here" src="objectives/reflections/11.png" />
 <div class="section" id="geometric-and-arithmetic-sequences">
 <h2>Geometric and arithmetic sequences<a class="headerlink" href="#geometric-and-arithmetic-sequences" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: Made them up.</p>
 <p><strong>Explanation</strong>:</p>
-<p>This artifact demonstrates geometric and arithmetic sequences.</p>
+<p>This artifact demonstrates the usage of both geometric and arithmetic sequences.</p>
+<p>The first example is geometric, and the second is arithmetic.</p>
 <p><strong>Artifact</strong>:</p>
+<ol class="arabic simple">
+<li>Find the first 3 terms and the 50th term of the sequence <span class="math">\(\{a_k\}\)</span> in which <span class="math">\(a_k = k^2-k\)</span>.</li>
+</ol>
+<div class="math">
+\[a_1 = 1^2 - 1 = 0\]\[a_2 = 2^2 - 2 = 2\]\[a_3 = 3^2 - 3 = 6\]\[a_50 = 50^2 - 50 = 2450\]</div>
+<ol class="arabic simple">
+<li>Find the first 3 terms and the 100th term of the sequence <span class="math">\(\{a_k\}\)</span> in which <span class="math">\(a_k = k + 4\)</span>.</li>
+</ol>
+<div class="math">
+\[a_1 = 1 + 4 = 5\]\[a_2 = 2 + 4 = 6\]\[a_3 = 3 + 4 = 7\]\[a_100 = 100 +4 = 104\]</div>
 </div>
 <div class="section" id="defining-sequences-explicitly-and-recursively">
 <h2>Defining sequences explicitly and recursively<a class="headerlink" href="#defining-sequences-explicitly-and-recursively" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: Group Quiz 9.4 &amp; 9.5</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates defining sequences explicitly and recursively.</p>
+<p>The recursive formula works by multiplying the previous number in the series by 3, starting with -2.</p>
+<p>The explicit formula works by using indices (n) starting at 1.</p>
+<p>The exponent on the formula is n-1. Since the first index is 1, the -3 will be nulled because anything to the 0 power is 1.</p>
+<p>The explicit formula is a bit nicer for humans because you don&#8217;t have to calculate the values recursively.</p>
 <p><strong>Artifact</strong>:</p>
+<p>Find the <strong>explicit</strong> and <strong>recursive</strong> formulas that model -2, 6, -18, 54, -162...</p>
+<p>Recursive:</p>
+<div class="math">
+\[\begin{split}A_1 = -2\\A_n = A_{n-1} * 3\end{split}\]</div>
+<p>Explicit:</p>
+<div class="math">
+\[A_n = -2(-3)^{n-1}\]</div>
 </div>
 <div class="section" id="summations-notation">
 <h2>Summations notation<a class="headerlink" href="#summations-notation" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: Notes June 06, 2012</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates summations notation.</p>
+<p>The slope of the explicit function is 7 because that is the rate of change in the series that is suggested by the data.</p>
+<p>I plugged in (1, 2) because 2 is the first item in the series (1 is the first index value).</p>
+<p>I set it equal to the last term of the series to solve for the last index number, because that goes ontop of the sigma.</p>
+<p>I used the gaussian method to find the sum of the finite arithmetic series.</p>
 <p><strong>Artifact</strong>:</p>
+<p>Express the [2, 9, 16, 23, ..., 107] in summation notation.</p>
+<div class="math">
+\[y = mx + b\]\[y = 7x + b\]\[2 = 7(1) + b\]\[b = -5\]\[y = 7x -5\]\[107 = 7x - 5\]\[x = 16\]\[({(2 + 107) \over 2}) * 16 = 872\]\[\displaystyle\sum_{x=1}^{16} {7x-5} = 872\]</div>
 </div>
 <div class="section" id="summing-finite-arithmetic-and-geometric-sequences">
 <h2>Summing finite arithmetic and geometric sequences<a class="headerlink" href="#summing-finite-arithmetic-and-geometric-sequences" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<p><strong>Source</strong>: Section 9.5 Example 2 and Group Quiz 9.4 &amp; 9.5</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates summing finite arithmetic and geometric sequences.</p>
+<ol class="arabic simple">
+<li></li>
+</ol>
+<p>I used the formula <span class="math">\(a_1(1 - r^n) \over 1 -r\)</span> to find the sum of this geometric series.</p>
+<p>I was given <span class="math">\(a_1 \text{ and } a_n\)</span>. I just needed to find the <span class="math">\(r\)</span> value by using basic algebra.</p>
+<ol class="arabic simple" start="2">
+<li></li>
+</ol>
+<p>I found the average of the first and last values in the series and then multiplied that by the number of values in the sequence to get the sum.</p>
 <p><strong>Artifact</strong>:</p>
+<ol class="arabic simple">
+<li>Find the sum of the geometric series <span class="math">\(4, -{4 \over 3}, {4 \over 9}, -{4 \over 27}, ... , 4(-{1 \over 3})^{10}\)</span></li>
+</ol>
+<div class="math">
+\[A_1 = 4\]\[4r = -{4 \over 3}\]\[r = -{1 \over 3}\]\[A_n = 4(-{1 \over 3})^{10}\]\[n = 11\]\[{4(1 + {1 \over 3}^{11}) \over 1 + {1 \over 3}} \approx 3.000016935\]</div>
+<ol class="arabic simple" start="2">
+<li>Find the sum of the arithmetic series <span class="math">\(\displaystyle\sum_{k=1}^{4} {-6 + k}\)</span>.</li>
+</ol>
+<div class="math">
+\[A_1 = -6 + 1 = -5\]\[A_4 = -6 + 4 = -2\]\[({(-5 +(-2)) \over 2}) * 4 = -14\]</div>
 </div>
 <div class="section" id="summing-infinite-geometric-sequences">
-<h2>Summing infinite geometric  sequences<a class="headerlink" href="#summing-infinite-geometric-sequences" title="Permalink to this headline">¶</a></h2>
-<p><strong>Source</strong>:</p>
+<h2>Summing infinite geometric sequences<a class="headerlink" href="#summing-infinite-geometric-sequences" title="Permalink to this headline">¶</a></h2>
+<p><strong>Source</strong>: Notes</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates summing infinite geometric  sequences.</p>
+<p>To find the sum, I used the formula for the sum of an infinite geometric series (<span class="math">\(A_1 \over 1 - r\)</span>).</p>
+<p>This formula only works for geometric series that converge (eventually reaches a limit, usually 0).</p>
 <p><strong>Artifact</strong>:</p>
+<p>Find the sum of the infinite geometric sequence [32, 16, 8, 4, 2, 1...]:</p>
+<div class="math">
+\[\text{sum } = {32 \over 1 - {1 \over 2}} = 64\]\[\displaystyle\sum_{k=1}^{\infty} {32({1 \over 2})^{k-1}} = 64\]</div>
 </div>
 </div>
 
@@ -105,7 +158,7 @@
 <li><a class="reference internal" href="#defining-sequences-explicitly-and-recursively">Defining sequences explicitly and recursively</a></li>
 <li><a class="reference internal" href="#summations-notation">Summations notation</a></li>
 <li><a class="reference internal" href="#summing-finite-arithmetic-and-geometric-sequences">Summing finite arithmetic and geometric sequences</a></li>
-<li><a class="reference internal" href="#summing-infinite-geometric-sequences">Summing infinite geometric  sequences</a></li>
+<li><a class="reference internal" href="#summing-infinite-geometric-sequences">Summing infinite geometric sequences</a></li>
 </ul>
 </li>
 </ul>
