@@ -47,6 +47,16 @@ Defining sequences explicitly and recursively
 
 **Source**: Group Quiz 9.4 & 9.5
 
+**Group Work**:
+
+Matthew and I disagreed on whether to start the index numbers at 0 or 1 for the explicit functions.
+
+He thought we should start at 1, and I thought we should start at 0 because it was easier.
+
+He was right, but we worked together to compromise.
+
+We had one of them start at 0, and the other start at 1.
+
 **Explanation**: 
 
 This artifact demonstrates defining sequences explicitly and recursively.
@@ -117,6 +127,18 @@ Summing finite arithmetic and geometric sequences
 -------------------------------------------------
 
 **Source**: Section 9.5 Example 2 and Group Quiz 9.4 & 9.5
+
+**Group Work**:
+
+The second example in this artifact comes our most recent group quiz.
+
+I remember that we were very systematic and efficient in this quiz.
+
+I calculated the first value in the series while he calculated the last one.
+
+We were like Batman and Robin.
+
+Matthew was Robin.
 
 **Explanation**: 
 
