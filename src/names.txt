@@ -1,0 +1,12 @@
+1 Function composition and inverse functions
+2 Transformations of all functions
+3 Power functions, their graphs and applications
+4 Polynomial functions, their graphs and applications
+5 Rational functions, their graphs, and applications
+6 Exponential and logistic functions, their graphs and applications
+7 Logarithmic functions their graphs and applications
+8 Vectors and their applications
+9 Polar coordinates and equations
+10 Conic sections their graphs and applications
+11 Sequences and series
+12 Limits
