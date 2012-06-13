@@ -14,6 +14,15 @@ Writing exponential models
 
 This artifact demonstrates writing exponential models.
 
+I used the exponential formula :math:`y = ab^x` to solve this problem.
+
+:math:`a` stands for the initial amount.
+
+:math:`b` stands for the rate.
+
+Since the rate is a percentage that is growing, I need to express it as 1 + 0.031, or else my function would be decaying and inaccurate.
+
+
 **Artifact**:
 
 My height is growing exponential by 3.1% every year. Right now he I am 68.4 inches tall.
@@ -22,9 +31,7 @@ An exponential model for my height would be
 
 .. math::
 
-   y = ab^x
-
-   y = 68.4(1 + 0.031)^{x \over 3}
+   y = 68.4(1 + 0.031)^{1 \over 3}
 
    y = 68.4(1.031)^{x \over 3} \text{ x is in years.}
 
@@ -37,13 +44,22 @@ Writing logistic models
 
 This artifact demonstrates writing logistic models.
 
+This problem makes use of the logistic formula: :math:`y = {c \over 1 + ab^x}`.
+
+I only get the limit, the initial value, and a point - I need to solve for a so I can solve for b.
+
+I get started by filling in what I know (the limit growth and the given x,y point).
+
+Then I solve for a, which I plug back into the formula so I can solve for b.
+
+Once I've got b, I can drop the x,y coordinate that I was using before so I can re-use my function with different variables.
+
 **Artifact**:
 
 Find the logistic function that has a limit to growth of 24, and initial value of 6, and goes through the point :math:`(8, 14)`.
 
 .. math::
 
-   y = {c \over 1 + ab^x}\\
    6 = {24 \over a + ab^x}\\
    6 = {24 \over 1 + a(1)}\\
    6 + 6a = 24\\
@@ -68,9 +84,13 @@ Graphing exponential functions
 
 This artifact demonstrates graphing exponential functions.
 
+All this problem had me do was create an x,y table for evaluating f(x) with different x values.
+
+Then I could plot the points on the line and graph the function accurately based on my knowledge of that the end behavior of an exponential graph should look like.
+
 **Artifact**:
 
-Graph :math:`y = 4^x`
+Graph :math:`f(x) = 4^x`
 
 ==== ====
 x    y
@@ -97,11 +117,15 @@ Applying exponential models
 
 This artifact demonstrates applying exponential models.
 
+Since I am currently 17, I plug in 2 for x because that is the difference between 19 and 17.
+
+Then all I have to do is solve the exponential equation to get my answer.
+
 **Artifact**:
 
 Using the previously defined model for my height (:math:`y = 68.4(1.031)^{x \over 3} \text{ x is in years.}`).
 
-I can try and guess what my height will be when I am 19 (I am 17).
+I can try and guess what my height will be when I am 19.
 
 .. math::
 
@@ -121,6 +145,14 @@ Applying logistic models
 **Explanation**: 
 
 This artifact demonstrates applying logistic models.
+
+The logistic formula is given to me here. All I have to do is solve for the y value of 1 million.
+
+I start by multiplying by :math:`1 + 21.602e^{-0.05054t}` and dividing by 1,000,000 to get the t in an easier postion.
+
+I keep cutting down the side of the equation that has t on it until I've got it ready to use the logarithmic power rule.
+
+Then I just have to some more basic simplification and I'm done!
 
 **Artifact**:
 

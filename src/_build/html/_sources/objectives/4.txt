@@ -42,6 +42,18 @@ Factoring a higher degree polynomial with and without complex zeros
 
 This artifact demonstrates factoring a higher degree polynomial with and without complex zeros.
 
+Using the rational zero theorem, I knew that :math:`x^4 - 3x^3 - 6x^2 + 6x + 8` is divisible by one of :math:`\pm{8} \pm{4} \pm{2} \pm{1}`
+
+After trying quite a few options, I eventually tried dividing by (x+1), which worked.
+
+Since the original function had a leading degree of 4, the result of that division was a function with a leading degree of 3 and a linear factor (x+1).
+
+So I ran synthetic division one more time.
+
+This time the result was a quadratic and two linear factors.
+
+I then factored the quadratic into two more linear factors (4 total).
+
 **Artifact**:
 
 Reduce :math:`x^4 - 3x^3 - 6x^2 + 6x + 8`
@@ -78,6 +90,10 @@ Factoring a higher degree polynomial that has a leading coefficient that is not 
 **Explanation**: 
 
 This artifact demonstrates factoring a higher degree polynomial that has a leading coefficiant that is not one.
+
+This one was a lot like the last one, except that I had to do a little bit more work at the end because you aren't supposed to have fractions in the linear factors.
+
+I had to multiply two of them by their denominators to clear the fraction, then I had to multiply the other two by the reciprocal of that.
 
 **Artifact**:
 
@@ -128,6 +144,11 @@ Solving polynomial equations and inequalities
 
 This artifact demonstrates solving polynomial equations and inequalities.
 
+This problem was not too different from the previous.
+
+Initially, I just had to reduce it to linear factors. The difference between the others comes with the inequality part.
+
+I made a sign chart to make it easier to test the different portions of the function's potential behavior changes for it's positivity/negativity (polarity) in order to solve the original inequality.
 
 **Appropriate Use of Technology**
 
@@ -178,9 +199,19 @@ Applications of polynomial functions
 
 **Source**: section 2.3 Homework question #65.b
 
+**Application**:
+
+This is a prime example of how math can be applied in our lives.
+
+Even though we may rarely use precalculus level math in our day to day lives, there are situations where math is very important, like the one in this artifact.
+
 **Explanation**: 
 
 This artifact demonstrates applications of polynomial functions.
+
+The main hurdle in this problem was really understanding what the question was asking.
+
+In reality, the only math required in this problem is solving for r using a square root, and knowing that the answer is (cm).
 
 **Independent thinking**
 

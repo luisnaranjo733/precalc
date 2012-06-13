@@ -60,22 +60,30 @@
 <p><strong>Source</strong>: Made it up.</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates writing exponential models.</p>
+<p>I used the exponential formula <span class="math">\(y = ab^x\)</span> to solve this problem.</p>
+<p><span class="math">\(a\)</span> stands for the initial amount.</p>
+<p><span class="math">\(b\)</span> stands for the rate.</p>
+<p>Since the rate is a percentage that is growing, I need to express it as 1 + 0.031, or else my function would be decaying and inaccurate.</p>
 <p><strong>Artifact</strong>:</p>
 <p>My height is growing exponential by 3.1% every year. Right now he I am 68.4 inches tall.</p>
 <p>An exponential model for my height would be</p>
 <div class="math">
-\[y = ab^x\]\[y = 68.4(1 + 0.031)^{x \over 3}\]\[y = 68.4(1.031)^{x \over 3} \text{ x is in years.}\]</div>
+\[y = 68.4(1 + 0.031)^{1 \over 3}\]\[y = 68.4(1.031)^{x \over 3} \text{ x is in years.}\]</div>
 </div>
 <div class="section" id="writing-logistic-models">
 <h2>Writing logistic models<a class="headerlink" href="#writing-logistic-models" title="Permalink to this headline">¶</a></h2>
 <p><strong>Source</strong>: Chapter 3 Test Non Calculator Section #3</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates writing logistic models.</p>
+<p>This problem makes use of the logistic formula: <span class="math">\(y = {c \over 1 + ab^x}\)</span>.</p>
+<p>I only get the limit, the initial value, and a point - I need to solve for a so I can solve for b.</p>
+<p>I get started by filling in what I know (the limit growth and the given x,y point).</p>
+<p>Then I solve for a, which I plug back into the formula so I can solve for b.</p>
+<p>Once I&#8217;ve got b, I can drop the x,y coordinate that I was using before so I can re-use my function with different variables.</p>
 <p><strong>Artifact</strong>:</p>
 <p>Find the logistic function that has a limit to growth of 24, and initial value of 6, and goes through the point <span class="math">\((8, 14)\)</span>.</p>
 <div class="math">
-\[\begin{split} y = {c \over 1 + ab^x}\\
- 6 = {24 \over a + ab^x}\\
+\[\begin{split} 6 = {24 \over a + ab^x}\\
  6 = {24 \over 1 + a(1)}\\
  6 + 6a = 24\\
  6a = 18\\
@@ -92,8 +100,10 @@ y = {24 \over 1 + 3({5 \over 21})^{x \over 8}}\end{split}\]</div>
 <p><strong>Source</strong>:</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates graphing exponential functions.</p>
+<p>All this problem had me do was create an x,y table for evaluating f(x) with different x values.</p>
+<p>Then I could plot the points on the line and graph the function accurately based on my knowledge of that the end behavior of an exponential graph should look like.</p>
 <p><strong>Artifact</strong>:</p>
-<p>Graph <span class="math">\(y = 4^x\)</span></p>
+<p>Graph <span class="math">\(f(x) = 4^x\)</span></p>
 <table border="1" class="docutils">
 <colgroup>
 <col width="50%" />
@@ -127,9 +137,11 @@ y = {24 \over 1 + 3({5 \over 21})^{x \over 8}}\end{split}\]</div>
 <p><strong>Source</strong>: Made it up.</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates applying exponential models.</p>
+<p>Since I am currently 17, I plug in 2 for x because that is the difference between 19 and 17.</p>
+<p>Then all I have to do is solve the exponential equation to get my answer.</p>
 <p><strong>Artifact</strong>:</p>
 <p>Using the previously defined model for my height (<span class="math">\(y = 68.4(1.031)^{x \over 3} \text{ x is in years.}\)</span>).</p>
-<p>I can try and guess what my height will be when I am 19 (I am 17).</p>
+<p>I can try and guess what my height will be when I am 19.</p>
 <div class="math">
 \[y = 68.4(1.031)^{x \over 3}\]\[y = 68.4(1.031)^{2 \over 3}\]\[y \approx 69.80639 \text{ inches}\]</div>
 <p>The 3.1% statistic is obviously incorrect, so my answer is a bit skewed.</p>
@@ -139,6 +151,10 @@ y = {24 \over 1 + 3({5 \over 21})^{x \over 8}}\end{split}\]</div>
 <p><strong>Source</strong>:</p>
 <p><strong>Explanation</strong>:</p>
 <p>This artifact demonstrates applying logistic models.</p>
+<p>The logistic formula is given to me here. All I have to do is solve for the y value of 1 million.</p>
+<p>I start by multiplying by <span class="math">\(1 + 21.602e^{-0.05054t}\)</span> and dividing by 1,000,000 to get the t in an easier postion.</p>
+<p>I keep cutting down the side of the equation that has t on it until I&#8217;ve got it ready to use the logarithmic power rule.</p>
+<p>Then I just have to some more basic simplification and I&#8217;m done!</p>
 <p><strong>Artifact</strong>:</p>
 <p>Based on recent census data, a logistic model for the population of Dallas, <em>t</em> years after 1900, is as follows:</p>
 <p><span class="math">\(P(t) = {1,301,642 \over 1 + 21.602e^{-0.05054t}}\)</span></p>

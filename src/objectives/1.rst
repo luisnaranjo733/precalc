@@ -63,6 +63,12 @@ Function decomposition
 
 In this artifact I demonstrate how a function can be decomposed into two different functions.
 
+It's not easy for me to show my work on this problem, but basically what I did is compose two new function that would evaluate to :math:`(f \circ g)(x) = \sqrt{x^2 + 3}`.
+
+I can still check my work by plugging in g(x) into f(x):
+
+:math:`f(g(x)) = \sqrt{x^2 + 3}`
+
 **Awareness and appreciation**:
 
 There is potentially an infinite amount of solutions to this problem, but this is probably the best solution for two reasons.
@@ -77,8 +83,6 @@ Decompose :math:`(f \circ g)(x)`
 .. math::
 
    (f \circ g)(x) = \sqrt{x^2 + 3}
-   
-   \text{find } f(x) \text{and} g(x)
 
    f(x) = \sqrt{x}
 
@@ -93,7 +97,9 @@ Parametric functions and how they relate to function composition
 
 The first example demonstrates: How to find an (x, y) pair when given a parametric function and a t value.
 
-The second example demonstrates: How a linear function can be composed from a parametric function.
+The second example demonstrates: How a linear function can be composed from a parametric function by eliminating the parameter.
+
+All I have to do is solve for t and plug t back into one of the original equations.
 
 **Artifact**:
 
@@ -121,7 +127,11 @@ Eliminate the parameter:
 
 .. math::
 
-   t = x - 3 \text{ in terms of x}
+   x = t + 3
+
+   t = x - 3
+
+   y = {1 \over t}
 
    y = {1 \over (x - 3)}
 
