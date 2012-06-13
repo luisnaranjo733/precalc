@@ -154,6 +154,16 @@ I keep cutting down the side of the equation that has t on it until I've got it 
 
 Then I just have to some more basic simplification and I'm done!
 
+**Application**:
+
+This is a very real-life application. Every 4 years the government runs a national census.
+
+Individual counties and districts all over the country run censuses too.
+
+Knowing how to use logistic models is crucial, because they are good for population modeling.
+
+This is because they have a limit growth value, which makes them more realistic functions than others that are more unbounded.
+
 **Artifact**:
 
 Based on recent census data, a logistic model for the population of Dallas, *t* years after 1900, is as follows:

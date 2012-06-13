@@ -78,6 +78,10 @@ Here are the steps I took to get from :math:`f(x) = \sqrt{x}` to :math:`g(x)`.
 #. :math:`4\sqrt{3(x-2)}`
 #. :math:`4\sqrt{3(x-2)+3}`
 
+**Numeric Algebraic Graphic Connection**
+
+I've included a graph of the functions described in this artifact. This graph backs up my claims. It is the visual/numerical representation of my algebraic formulas.
+
 **Appropriate Use of Technology**
 
 I used an online graphing calculator to generate the graph below.

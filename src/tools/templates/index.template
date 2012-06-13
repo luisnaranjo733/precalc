@@ -5,6 +5,8 @@ Pre-calc H Final
 
 PDF Version available `here`_.
 
+.. image:: summary.png
+
 .. _here: http://media.readthedocs.org/pdf/precalc/latest/precalc.pdf 
 
 .. toctree::

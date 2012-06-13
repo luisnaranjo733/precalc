@@ -114,7 +114,7 @@ Graphs of polar equations
 
 This artifact demonstrates graphs of polar equations.
 
-From graphing the polar equation :math:`r = 3 -3 \sin x` in radian/function mode, I can tell that the maximum r value is 6 because that is the highest y valu you can ever get on this particulur sinusoid.
+From graphing the polar equation :math:`r = 3 -3 \sin x` in radian/function mode, I can tell that the maximum r value is 6 because that is the highest y value you can ever get on this particulur sinusoid.
 
 .. image:: graphs/9_graph.png
    :height: 500px
